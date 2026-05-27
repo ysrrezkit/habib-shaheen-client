@@ -1,0 +1,1001 @@
+Sale ID,Date,Customer,City,Category,Product,Unit Price (EGP),Qty,Total (EGP),Rep
+EG-IT-1000,2023-05-10,Fawry,Cairo,Consulting,Digital Transformation Strategy,213098,1,213098,Mohamed Ali
+EG-IT-1001,2023-10-08,CIB Bank,Tanta,Cybersecurity,Penetration Testing License,56502,10,565020,Mohamed Ali
+EG-IT-1002,2023-10-05,Banque Misr,Cairo,Cloud Services,Local Data Center Hosting,36445,10,364450,Sarah Hassan
+EG-IT-1003,2023-12-25,QNB Alahli,Suez,Hardware,Server Rack v2,47388,18,852984,Sarah Hassan
+EG-IT-1004,2024-01-01,Banque Misr,Alexandria,Cybersecurity,Firewall License,8964,8,71712,Yasmine Mahmoud
+EG-IT-1005,2023-11-17,Telecom Egypt,Alexandria,Software,CRM Subscription,1405,39,54795,Khaled Ibrahim
+EG-IT-1006,2023-09-09,Banque Misr,Alexandria,Cloud Services,Local Data Center Hosting,25456,5,127280,Ahmed Mansour
+EG-IT-1007,2023-05-16,Raya Holding,Suez,Cybersecurity,Firewall License,29870,6,179220,Khaled Ibrahim
+EG-IT-1008,2023-07-15,CIB Bank,Giza,Software,ERP License (Arabic),2977,81,241137,Ahmed Mansour
+EG-IT-1009,2023-01-13,Telecom Egypt,Hurghada,Software,Project Mgmt Tool,11893,14,166502,Khaled Ibrahim
+EG-IT-1010,2023-05-16,Telecom Egypt,Suez,Cybersecurity,Endpoint Protection,46480,1,46480,Mohamed Ali
+EG-IT-1011,2023-05-03,Raya Holding,Suez,Consulting,IT Security Audit,55056,1,55056,Yasmine Mahmoud
+EG-IT-1012,2023-05-06,Juhayna,Port Said,Cybersecurity,Endpoint Protection,46341,5,231705,Mariam Zaki
+EG-IT-1013,2023-05-10,EgyptAir,Port Said,Consulting,IT Security Audit,158479,1,158479,Sarah Hassan
+EG-IT-1014,2023-05-09,Orascom Development,Port Said,Hardware,Networking Switch,49653,18,893754,Ahmed Mansour
+EG-IT-1015,2023-11-08,EgyptAir,Tanta,Hardware,Laptop Pro X1,132303,18,2381454,Ahmed Mansour
+EG-IT-1016,2023-11-23,Raya Holding,Cairo,Cloud Services,Local Data Center Hosting,64483,6,386898,Mariam Zaki
+EG-IT-1017,2023-07-16,Fawry,Giza,Cloud Services,Azure Managed Svcs,12307,4,49228,Yasmine Mahmoud
+EG-IT-1018,2023-08-07,Elsewedy Electric,Tanta,Cloud Services,Azure Managed Svcs,31002,2,62004,Mohamed Ali
+EG-IT-1019,2023-10-09,QNB Alahli,Port Said,Cybersecurity,Penetration Testing License,16739,3,50217,Ahmed Mansour
+EG-IT-1020,2023-04-26,Juhayna,Cairo,Software,Project Mgmt Tool,12369,54,667926,Sarah Hassan
+EG-IT-1021,2023-03-03,Elsewedy Electric,Tanta,Consulting,Cloud Migration,234983,1,234983,Sarah Hassan
+EG-IT-1022,2023-07-09,Raya Holding,Alexandria,Hardware,Server Rack v2,95908,16,1534528,Sarah Hassan
+EG-IT-1023,2023-05-15,EgyptAir,Port Said,Consulting,IT Security Audit,111669,1,111669,Sarah Hassan
+EG-IT-1024,2023-08-11,Orascom Development,Tanta,Software,HR & Payroll System,14557,56,815192,Mohamed Ali
+EG-IT-1025,2023-03-11,Banque Misr,Alexandria,Software,HR & Payroll System,2771,11,30481,Mohamed Ali
+EG-IT-1026,2023-09-24,Elsewedy Electric,Port Said,Cloud Services,Google Cloud Support,53411,7,373877,Mohamed Ali
+EG-IT-1027,2023-01-17,Telecom Egypt,Giza,Software,ERP License (Arabic),9582,30,287460,Mohamed Ali
+EG-IT-1028,2023-06-19,Juhayna,Cairo,Cybersecurity,Firewall License,23035,4,92140,Sarah Hassan
+EG-IT-1029,2023-07-07,Juhayna,Suez,Consulting,Digital Transformation Strategy,127349,1,127349,Ahmed Mansour
+EG-IT-1030,2023-04-06,EgyptAir,Tanta,Cybersecurity,Endpoint Protection,47879,9,430911,Mariam Zaki
+EG-IT-1031,2023-07-20,Telecom Egypt,Giza,Consulting,Cloud Migration,91870,1,91870,Ahmed Mansour
+EG-IT-1032,2024-01-01,CIB Bank,Tanta,Cybersecurity,Endpoint Protection,45832,9,412488,Mohamed Ali
+EG-IT-1033,2023-04-01,Talaat Moustafa Group,Suez,Software,ERP License (Arabic),2207,81,178767,Mohamed Ali
+EG-IT-1034,2023-12-23,CIB Bank,Tanta,Cloud Services,Azure Managed Svcs,13942,9,125478,Mariam Zaki
+EG-IT-1035,2023-08-21,Banque Misr,Assiut,Software,CRM Subscription,2261,61,137921,Khaled Ibrahim
+EG-IT-1036,2023-07-02,EgyptAir,Hurghada,Cloud Services,Local Data Center Hosting,13640,7,95480,Mariam Zaki
+EG-IT-1037,2023-08-29,EgyptAir,Tanta,Software,HR & Payroll System,3088,85,262480,Mariam Zaki
+EG-IT-1038,2023-06-22,QNB Alahli,Suez,Cybersecurity,Firewall License,25955,4,103820,Sarah Hassan
+EG-IT-1039,2023-08-04,Talaat Moustafa Group,Assiut,Hardware,Laptop Pro X1,94022,14,1316308,Sarah Hassan
+EG-IT-1040,2023-10-12,Elsewedy Electric,Assiut,Cybersecurity,Endpoint Protection,40541,8,324328,Mariam Zaki
+EG-IT-1041,2023-03-21,Juhayna,Mansoura,Consulting,Digital Transformation Strategy,162646,1,162646,Sarah Hassan
+EG-IT-1042,2023-10-14,Banque Misr,Suez,Cybersecurity,Firewall License,33286,6,199716,Khaled Ibrahim
+EG-IT-1043,2023-05-25,Banque Misr,Suez,Cybersecurity,Firewall License,44575,8,356600,Sarah Hassan
+EG-IT-1044,2023-02-14,CIB Bank,Tanta,Software,CRM Subscription,11005,19,209095,Mohamed Ali
+EG-IT-1045,2023-03-03,Fawry,Cairo,Consulting,Digital Transformation Strategy,104690,1,104690,Mariam Zaki
+EG-IT-1046,2023-11-18,Juhayna,Mansoura,Software,CRM Subscription,12736,53,675008,Khaled Ibrahim
+EG-IT-1047,2023-12-09,Raya Holding,Tanta,Consulting,IT Security Audit,211475,1,211475,Mohamed Ali
+EG-IT-1048,2023-01-05,QNB Alahli,Hurghada,Cybersecurity,Penetration Testing License,31896,4,127584,Yasmine Mahmoud
+EG-IT-1049,2023-12-20,Talaat Moustafa Group,Hurghada,Software,HR & Payroll System,5059,97,490723,Ahmed Mansour
+EG-IT-1050,2023-11-01,CIB Bank,Cairo,Software,CRM Subscription,9613,97,932461,Mohamed Ali
+EG-IT-1051,2023-01-18,CIB Bank,Alexandria,Cloud Services,Local Data Center Hosting,20339,9,183051,Mariam Zaki
+EG-IT-1052,2023-12-30,Orascom Development,Port Said,Consulting,IT Security Audit,70561,1,70561,Sarah Hassan
+EG-IT-1053,2023-05-06,Fawry,Hurghada,Consulting,IT Security Audit,109868,1,109868,Sarah Hassan
+EG-IT-1054,2023-07-14,Juhayna,Suez,Hardware,UPS Backup System,71698,18,1290564,Mohamed Ali
+EG-IT-1055,2023-02-24,Juhayna,Assiut,Software,CRM Subscription,9908,66,653928,Sarah Hassan
+EG-IT-1056,2023-02-15,QNB Alahli,Suez,Cloud Services,AWS Storage,50697,8,405576,Sarah Hassan
+EG-IT-1057,2023-10-01,Telecom Egypt,Alexandria,Cloud Services,Local Data Center Hosting,37173,10,371730,Mohamed Ali
+EG-IT-1058,2023-02-07,QNB Alahli,Suez,Cloud Services,Google Cloud Support,53851,5,269255,Mariam Zaki
+EG-IT-1059,2023-11-09,CIB Bank,Tanta,Cloud Services,Google Cloud Support,36337,6,218022,Sarah Hassan
+EG-IT-1060,2023-10-05,Banque Misr,Giza,Consulting,Cloud Migration,167222,1,167222,Khaled Ibrahim
+EG-IT-1061,2023-04-25,Telecom Egypt,Giza,Hardware,UPS Backup System,71621,3,214863,Ahmed Mansour
+EG-IT-1062,2023-01-12,Juhayna,Tanta,Software,Project Mgmt Tool,6774,34,230316,Sarah Hassan
+EG-IT-1063,2023-12-31,QNB Alahli,Cairo,Cloud Services,AWS Storage,63694,6,382164,Ahmed Mansour
+EG-IT-1064,2023-01-27,Elsewedy Electric,Mansoura,Cybersecurity,Firewall License,65257,1,65257,Mariam Zaki
+EG-IT-1065,2023-12-12,Juhayna,Suez,Consulting,Cloud Migration,249403,1,249403,Ahmed Mansour
+EG-IT-1066,2023-06-24,Banque Misr,Port Said,Cloud Services,AWS Storage,75879,1,75879,Sarah Hassan
+EG-IT-1067,2023-03-18,CIB Bank,Giza,Software,HR & Payroll System,12273,44,540012,Ahmed Mansour
+EG-IT-1068,2023-11-03,Talaat Moustafa Group,Port Said,Cybersecurity,Endpoint Protection,60660,6,363960,Mariam Zaki
+EG-IT-1069,2023-10-21,Banque Misr,Giza,Consulting,Digital Transformation Strategy,149838,1,149838,Sarah Hassan
+EG-IT-1070,2023-02-16,QNB Alahli,Tanta,Cloud Services,Google Cloud Support,25819,5,129095,Ahmed Mansour
+EG-IT-1071,2023-11-23,EgyptAir,Giza,Software,ERP License (Arabic),9796,68,666128,Yasmine Mahmoud
+EG-IT-1072,2023-03-18,Telecom Egypt,Alexandria,Hardware,UPS Backup System,145730,15,2185950,Sarah Hassan
+EG-IT-1073,2023-10-25,CIB Bank,Suez,Cybersecurity,Penetration Testing License,75993,6,455958,Yasmine Mahmoud
+EG-IT-1074,2023-09-06,Orascom Development,Suez,Cloud Services,Local Data Center Hosting,50778,1,50778,Mariam Zaki
+EG-IT-1075,2023-01-09,Elsewedy Electric,Cairo,Software,CRM Subscription,14910,34,506940,Mohamed Ali
+EG-IT-1076,2023-09-10,Orascom Development,Assiut,Software,ERP License (Arabic),9759,87,849033,Mohamed Ali
+EG-IT-1077,2023-01-29,EgyptAir,Assiut,Consulting,Cloud Migration,105951,1,105951,Ahmed Mansour
+EG-IT-1078,2023-08-17,Talaat Moustafa Group,Assiut,Software,ERP License (Arabic),2801,79,221279,Khaled Ibrahim
+EG-IT-1079,2023-03-16,QNB Alahli,Assiut,Cybersecurity,Endpoint Protection,65400,8,523200,Yasmine Mahmoud
+EG-IT-1080,2023-01-16,Fawry,Assiut,Software,HR & Payroll System,4543,52,236236,Mariam Zaki
+EG-IT-1081,2023-09-10,QNB Alahli,Tanta,Hardware,Networking Switch,107186,15,1607790,Khaled Ibrahim
+EG-IT-1082,2023-12-22,Fawry,Tanta,Cloud Services,Google Cloud Support,42234,4,168936,Mariam Zaki
+EG-IT-1083,2023-06-10,Elsewedy Electric,Tanta,Cybersecurity,Penetration Testing License,21329,1,21329,Mohamed Ali
+EG-IT-1084,2023-10-30,Raya Holding,Assiut,Cybersecurity,Endpoint Protection,50350,10,503500,Yasmine Mahmoud
+EG-IT-1085,2023-07-25,Fawry,Hurghada,Software,HR & Payroll System,6265,44,275660,Mohamed Ali
+EG-IT-1086,2023-03-24,Juhayna,Giza,Cybersecurity,Endpoint Protection,49999,4,199996,Sarah Hassan
+EG-IT-1087,2023-04-02,QNB Alahli,Port Said,Hardware,Laptop Pro X1,129129,10,1291290,Khaled Ibrahim
+EG-IT-1088,2023-04-11,Fawry,Giza,Cloud Services,AWS Storage,64688,6,388128,Khaled Ibrahim
+EG-IT-1089,2023-05-26,Juhayna,Giza,Cybersecurity,Penetration Testing License,66625,7,466375,Mohamed Ali
+EG-IT-1090,2023-03-13,Elsewedy Electric,Suez,Software,ERP License (Arabic),10383,10,103830,Sarah Hassan
+EG-IT-1091,2023-12-16,Raya Holding,Assiut,Cybersecurity,Penetration Testing License,6642,4,26568,Yasmine Mahmoud
+EG-IT-1092,2023-09-07,Juhayna,Assiut,Cybersecurity,Endpoint Protection,15070,8,120560,Mohamed Ali
+EG-IT-1093,2023-11-21,Raya Holding,Hurghada,Cloud Services,Local Data Center Hosting,41820,9,376380,Sarah Hassan
+EG-IT-1094,2023-12-29,Telecom Egypt,Suez,Cybersecurity,Endpoint Protection,13528,7,94696,Sarah Hassan
+EG-IT-1095,2023-10-30,Banque Misr,Giza,Cybersecurity,Penetration Testing License,11088,2,22176,Ahmed Mansour
+EG-IT-1096,2023-11-26,Fawry,Giza,Consulting,Digital Transformation Strategy,245241,1,245241,Mariam Zaki
+EG-IT-1097,2023-12-20,Talaat Moustafa Group,Alexandria,Software,ERP License (Arabic),6924,24,166176,Sarah Hassan
+EG-IT-1098,2023-05-30,Raya Holding,Mansoura,Hardware,Laptop Pro X1,26452,2,52904,Khaled Ibrahim
+EG-IT-1099,2023-06-05,Elsewedy Electric,Giza,Cloud Services,AWS Storage,75881,9,682929,Ahmed Mansour
+EG-IT-1100,2023-12-13,Juhayna,Alexandria,Consulting,Cloud Migration,130390,1,130390,Mariam Zaki
+EG-IT-1101,2023-02-08,Raya Holding,Suez,Cybersecurity,Endpoint Protection,18659,7,130613,Ahmed Mansour
+EG-IT-1102,2023-01-01,Orascom Development,Hurghada,Hardware,Server Rack v2,51127,8,409016,Mohamed Ali
+EG-IT-1103,2023-08-15,Raya Holding,Giza,Cloud Services,Google Cloud Support,68085,2,136170,Ahmed Mansour
+EG-IT-1104,2023-05-22,Telecom Egypt,Assiut,Consulting,Cloud Migration,171794,1,171794,Khaled Ibrahim
+EG-IT-1105,2023-08-26,Juhayna,Suez,Cybersecurity,Endpoint Protection,62876,7,440132,Sarah Hassan
+EG-IT-1106,2023-10-10,Banque Misr,Giza,Cybersecurity,Firewall License,8637,7,60459,Khaled Ibrahim
+EG-IT-1107,2023-11-23,EgyptAir,Assiut,Consulting,IT Security Audit,266649,1,266649,Khaled Ibrahim
+EG-IT-1108,2023-07-28,Telecom Egypt,Giza,Cloud Services,Local Data Center Hosting,38038,9,342342,Yasmine Mahmoud
+EG-IT-1109,2023-02-11,Elsewedy Electric,Suez,Software,ERP License (Arabic),6837,5,34185,Mohamed Ali
+EG-IT-1110,2023-07-02,Talaat Moustafa Group,Port Said,Cloud Services,AWS Storage,58351,6,350106,Yasmine Mahmoud
+EG-IT-1111,2023-06-26,Talaat Moustafa Group,Tanta,Cloud Services,Azure Managed Svcs,41611,10,416110,Sarah Hassan
+EG-IT-1112,2023-04-26,Juhayna,Mansoura,Cybersecurity,Penetration Testing License,73924,9,665316,Khaled Ibrahim
+EG-IT-1113,2023-01-18,Orascom Development,Mansoura,Software,CRM Subscription,5249,74,388426,Mariam Zaki
+EG-IT-1114,2023-10-03,Orascom Development,Port Said,Cloud Services,Azure Managed Svcs,65895,10,658950,Khaled Ibrahim
+EG-IT-1115,2023-02-18,Juhayna,Hurghada,Cybersecurity,Firewall License,12911,1,12911,Khaled Ibrahim
+EG-IT-1116,2023-03-19,Fawry,Port Said,Cybersecurity,Firewall License,63306,8,506448,Mohamed Ali
+EG-IT-1117,2023-08-23,Raya Holding,Suez,Consulting,Cloud Migration,106230,1,106230,Yasmine Mahmoud
+EG-IT-1118,2023-05-30,Orascom Development,Giza,Consulting,Digital Transformation Strategy,154327,1,154327,Yasmine Mahmoud
+EG-IT-1119,2023-01-11,EgyptAir,Assiut,Hardware,Networking Switch,22291,20,445820,Ahmed Mansour
+EG-IT-1120,2023-12-11,Banque Misr,Suez,Hardware,UPS Backup System,34674,13,450762,Ahmed Mansour
+EG-IT-1121,2023-07-10,Talaat Moustafa Group,Assiut,Cloud Services,Google Cloud Support,56604,4,226416,Mariam Zaki
+EG-IT-1122,2023-11-22,Elsewedy Electric,Giza,Cloud Services,Azure Managed Svcs,69381,4,277524,Ahmed Mansour
+EG-IT-1123,2023-11-30,Raya Holding,Cairo,Cybersecurity,Penetration Testing License,23775,10,237750,Khaled Ibrahim
+EG-IT-1124,2023-02-13,Telecom Egypt,Alexandria,Hardware,Laptop Pro X1,54320,16,869120,Yasmine Mahmoud
+EG-IT-1125,2023-02-25,CIB Bank,Giza,Cybersecurity,Firewall License,56719,10,567190,Khaled Ibrahim
+EG-IT-1126,2023-05-16,Raya Holding,Suez,Cloud Services,Azure Managed Svcs,7335,5,36675,Yasmine Mahmoud
+EG-IT-1127,2023-11-25,Orascom Development,Tanta,Cybersecurity,Penetration Testing License,78462,2,156924,Mohamed Ali
+EG-IT-1128,2023-12-23,Telecom Egypt,Tanta,Cloud Services,Google Cloud Support,47841,5,239205,Mariam Zaki
+EG-IT-1129,2023-04-08,Telecom Egypt,Alexandria,Cloud Services,Local Data Center Hosting,23766,6,142596,Mohamed Ali
+EG-IT-1130,2023-06-18,Orascom Development,Mansoura,Software,Project Mgmt Tool,7474,36,269064,Mohamed Ali
+EG-IT-1131,2023-10-21,Orascom Development,Mansoura,Hardware,Server Rack v2,121286,9,1091574,Ahmed Mansour
+EG-IT-1132,2023-06-02,QNB Alahli,Mansoura,Cloud Services,Azure Managed Svcs,38627,8,309016,Ahmed Mansour
+EG-IT-1133,2023-06-20,Talaat Moustafa Group,Assiut,Consulting,Digital Transformation Strategy,71792,1,71792,Sarah Hassan
+EG-IT-1134,2023-05-28,Banque Misr,Port Said,Hardware,UPS Backup System,80646,16,1290336,Mohamed Ali
+EG-IT-1135,2023-04-10,Banque Misr,Suez,Cloud Services,Local Data Center Hosting,75385,6,452310,Sarah Hassan
+EG-IT-1136,2023-05-25,Orascom Development,Tanta,Cloud Services,Local Data Center Hosting,49942,3,149826,Mariam Zaki
+EG-IT-1137,2023-04-20,Banque Misr,Alexandria,Cloud Services,Local Data Center Hosting,54290,5,271450,Sarah Hassan
+EG-IT-1138,2023-08-31,Elsewedy Electric,Hurghada,Consulting,Digital Transformation Strategy,265206,1,265206,Sarah Hassan
+EG-IT-1139,2023-12-22,Orascom Development,Suez,Hardware,Networking Switch,73607,4,294428,Sarah Hassan
+EG-IT-1140,2023-02-23,QNB Alahli,Giza,Cybersecurity,Endpoint Protection,28725,10,287250,Khaled Ibrahim
+EG-IT-1141,2023-10-24,Raya Holding,Port Said,Cloud Services,Google Cloud Support,21771,1,21771,Mariam Zaki
+EG-IT-1142,2023-12-01,Juhayna,Alexandria,Software,CRM Subscription,11437,48,548976,Ahmed Mansour
+EG-IT-1143,2023-03-12,Talaat Moustafa Group,Assiut,Cybersecurity,Penetration Testing License,5497,3,16491,Ahmed Mansour
+EG-IT-1144,2023-03-02,Elsewedy Electric,Port Said,Cloud Services,Azure Managed Svcs,63246,4,252984,Sarah Hassan
+EG-IT-1145,2023-11-28,EgyptAir,Assiut,Consulting,Cloud Migration,266024,1,266024,Yasmine Mahmoud
+EG-IT-1146,2023-02-14,Talaat Moustafa Group,Port Said,Software,CRM Subscription,6154,99,609246,Mariam Zaki
+EG-IT-1147,2023-02-11,Raya Holding,Port Said,Cybersecurity,Firewall License,27787,1,27787,Mariam Zaki
+EG-IT-1148,2023-03-27,Fawry,Hurghada,Cybersecurity,Penetration Testing License,6674,1,6674,Mohamed Ali
+EG-IT-1149,2023-05-26,Juhayna,Mansoura,Consulting,Cloud Migration,116946,1,116946,Mohamed Ali
+EG-IT-1150,2023-01-18,Orascom Development,Alexandria,Cloud Services,AWS Storage,7220,6,43320,Ahmed Mansour
+EG-IT-1151,2023-01-09,QNB Alahli,Assiut,Cloud Services,Google Cloud Support,23093,4,92372,Mariam Zaki
+EG-IT-1152,2023-09-13,EgyptAir,Port Said,Hardware,Laptop Pro X1,94295,4,377180,Yasmine Mahmoud
+EG-IT-1153,2023-11-27,EgyptAir,Giza,Software,CRM Subscription,2462,40,98480,Sarah Hassan
+EG-IT-1154,2023-07-07,Fawry,Cairo,Software,CRM Subscription,3164,78,246792,Mariam Zaki
+EG-IT-1155,2023-02-16,Orascom Development,Port Said,Hardware,UPS Backup System,74212,6,445272,Yasmine Mahmoud
+EG-IT-1156,2023-08-23,Orascom Development,Assiut,Consulting,IT Security Audit,105050,1,105050,Sarah Hassan
+EG-IT-1157,2023-01-21,Talaat Moustafa Group,Cairo,Cybersecurity,Endpoint Protection,34179,2,68358,Mariam Zaki
+EG-IT-1158,2023-07-14,Elsewedy Electric,Tanta,Consulting,Cloud Migration,155076,1,155076,Mohamed Ali
+EG-IT-1159,2023-10-13,CIB Bank,Assiut,Hardware,Laptop Pro X1,124140,8,993120,Mohamed Ali
+EG-IT-1160,2023-04-30,Banque Misr,Assiut,Consulting,IT Security Audit,162655,1,162655,Mohamed Ali
+EG-IT-1161,2023-07-09,Juhayna,Tanta,Cybersecurity,Firewall License,79316,6,475896,Mohamed Ali
+EG-IT-1162,2023-05-05,Juhayna,Hurghada,Hardware,UPS Backup System,25430,18,457740,Ahmed Mansour
+EG-IT-1163,2023-03-10,Raya Holding,Port Said,Consulting,Digital Transformation Strategy,107884,1,107884,Khaled Ibrahim
+EG-IT-1164,2023-07-31,EgyptAir,Mansoura,Consulting,IT Security Audit,109892,1,109892,Mariam Zaki
+EG-IT-1165,2023-01-02,Orascom Development,Port Said,Hardware,UPS Backup System,130256,5,651280,Ahmed Mansour
+EG-IT-1166,2023-10-04,Fawry,Assiut,Software,CRM Subscription,13425,77,1033725,Sarah Hassan
+EG-IT-1167,2023-02-19,Telecom Egypt,Mansoura,Cloud Services,Local Data Center Hosting,74928,8,599424,Yasmine Mahmoud
+EG-IT-1168,2023-08-17,Elsewedy Electric,Giza,Cybersecurity,Penetration Testing License,79060,6,474360,Sarah Hassan
+EG-IT-1169,2023-09-09,Banque Misr,Hurghada,Cloud Services,Google Cloud Support,22835,3,68505,Sarah Hassan
+EG-IT-1170,2023-12-13,EgyptAir,Giza,Software,ERP License (Arabic),5962,14,83468,Khaled Ibrahim
+EG-IT-1171,2023-11-14,Banque Misr,Alexandria,Consulting,IT Security Audit,93353,1,93353,Sarah Hassan
+EG-IT-1172,2023-07-13,Elsewedy Electric,Hurghada,Cloud Services,Google Cloud Support,57473,6,344838,Khaled Ibrahim
+EG-IT-1173,2023-02-04,Banque Misr,Cairo,Cybersecurity,Endpoint Protection,59802,9,538218,Yasmine Mahmoud
+EG-IT-1174,2023-06-28,CIB Bank,Alexandria,Cybersecurity,Firewall License,33934,5,169670,Mohamed Ali
+EG-IT-1175,2023-03-12,Banque Misr,Tanta,Hardware,Server Rack v2,21159,6,126954,Sarah Hassan
+EG-IT-1176,2023-06-11,QNB Alahli,Suez,Cybersecurity,Firewall License,9497,8,75976,Sarah Hassan
+EG-IT-1177,2023-12-01,Fawry,Mansoura,Consulting,IT Security Audit,153591,1,153591,Ahmed Mansour
+EG-IT-1178,2023-08-14,QNB Alahli,Port Said,Consulting,Digital Transformation Strategy,123528,1,123528,Sarah Hassan
+EG-IT-1179,2023-03-03,Talaat Moustafa Group,Giza,Cloud Services,AWS Storage,78514,4,314056,Mariam Zaki
+EG-IT-1180,2023-07-20,Juhayna,Port Said,Hardware,Laptop Pro X1,75907,6,455442,Khaled Ibrahim
+EG-IT-1181,2023-06-04,Fawry,Suez,Software,Project Mgmt Tool,4947,40,197880,Yasmine Mahmoud
+EG-IT-1182,2023-11-26,Fawry,Assiut,Cybersecurity,Endpoint Protection,27084,7,189588,Mariam Zaki
+EG-IT-1183,2023-01-14,Telecom Egypt,Mansoura,Consulting,IT Security Audit,150874,1,150874,Ahmed Mansour
+EG-IT-1184,2023-03-06,Fawry,Cairo,Software,HR & Payroll System,6736,85,572560,Mariam Zaki
+EG-IT-1185,2023-02-24,Raya Holding,Assiut,Cloud Services,Google Cloud Support,58550,8,468400,Yasmine Mahmoud
+EG-IT-1186,2023-04-05,Elsewedy Electric,Giza,Cybersecurity,Endpoint Protection,12683,8,101464,Mohamed Ali
+EG-IT-1187,2023-06-20,Elsewedy Electric,Hurghada,Hardware,Server Rack v2,61099,18,1099782,Sarah Hassan
+EG-IT-1188,2023-08-16,Juhayna,Mansoura,Cybersecurity,Firewall License,49522,10,495220,Khaled Ibrahim
+EG-IT-1189,2023-01-14,QNB Alahli,Alexandria,Software,HR & Payroll System,12083,10,120830,Sarah Hassan
+EG-IT-1190,2023-04-20,Telecom Egypt,Port Said,Hardware,Server Rack v2,67582,18,1216476,Mariam Zaki
+EG-IT-1191,2023-07-04,CIB Bank,Hurghada,Software,HR & Payroll System,1408,57,80256,Khaled Ibrahim
+EG-IT-1192,2023-07-22,Juhayna,Hurghada,Hardware,UPS Backup System,20535,4,82140,Yasmine Mahmoud
+EG-IT-1193,2023-03-13,QNB Alahli,Giza,Cloud Services,Azure Managed Svcs,75315,9,677835,Sarah Hassan
+EG-IT-1194,2023-05-05,CIB Bank,Tanta,Cloud Services,Google Cloud Support,55321,5,276605,Khaled Ibrahim
+EG-IT-1195,2023-03-08,Elsewedy Electric,Hurghada,Hardware,Server Rack v2,42344,5,211720,Ahmed Mansour
+EG-IT-1196,2023-10-14,EgyptAir,Alexandria,Consulting,IT Security Audit,273851,1,273851,Khaled Ibrahim
+EG-IT-1197,2023-09-11,EgyptAir,Suez,Hardware,Laptop Pro X1,136324,17,2317508,Mariam Zaki
+EG-IT-1198,2023-06-20,Telecom Egypt,Suez,Hardware,Networking Switch,26932,14,377048,Khaled Ibrahim
+EG-IT-1199,2023-06-02,Orascom Development,Cairo,Cloud Services,AWS Storage,37731,9,339579,Khaled Ibrahim
+EG-IT-1200,2023-03-22,Raya Holding,Mansoura,Cybersecurity,Penetration Testing License,57308,9,515772,Ahmed Mansour
+EG-IT-1201,2023-03-05,EgyptAir,Cairo,Consulting,Cloud Migration,79788,1,79788,Mohamed Ali
+EG-IT-1202,2023-07-12,Telecom Egypt,Alexandria,Cybersecurity,Penetration Testing License,66307,7,464149,Ahmed Mansour
+EG-IT-1203,2023-10-24,Telecom Egypt,Alexandria,Software,Project Mgmt Tool,10737,15,161055,Khaled Ibrahim
+EG-IT-1204,2023-06-09,CIB Bank,Suez,Cloud Services,Azure Managed Svcs,51245,9,461205,Ahmed Mansour
+EG-IT-1205,2023-03-11,Fawry,Assiut,Hardware,Networking Switch,24613,16,393808,Yasmine Mahmoud
+EG-IT-1206,2023-01-11,CIB Bank,Cairo,Hardware,UPS Backup System,133225,11,1465475,Yasmine Mahmoud
+EG-IT-1207,2023-11-10,Elsewedy Electric,Suez,Consulting,IT Security Audit,269761,1,269761,Mohamed Ali
+EG-IT-1208,2023-10-06,Fawry,Hurghada,Hardware,Server Rack v2,22601,14,316414,Mariam Zaki
+EG-IT-1209,2023-09-12,Elsewedy Electric,Suez,Software,ERP License (Arabic),9862,73,719926,Ahmed Mansour
+EG-IT-1210,2023-08-22,Telecom Egypt,Port Said,Cybersecurity,Penetration Testing License,13071,6,78426,Mariam Zaki
+EG-IT-1211,2023-09-26,Banque Misr,Hurghada,Consulting,IT Security Audit,91118,1,91118,Mariam Zaki
+EG-IT-1212,2023-01-10,Fawry,Giza,Cloud Services,Local Data Center Hosting,53266,1,53266,Sarah Hassan
+EG-IT-1213,2023-02-09,EgyptAir,Suez,Cybersecurity,Endpoint Protection,16392,7,114744,Khaled Ibrahim
+EG-IT-1214,2023-09-16,Telecom Egypt,Mansoura,Cloud Services,AWS Storage,72767,10,727670,Yasmine Mahmoud
+EG-IT-1215,2023-06-11,EgyptAir,Suez,Software,ERP License (Arabic),10456,86,899216,Sarah Hassan
+EG-IT-1216,2023-09-23,QNB Alahli,Suez,Hardware,Networking Switch,146248,4,584992,Yasmine Mahmoud
+EG-IT-1217,2023-09-25,Orascom Development,Port Said,Hardware,UPS Backup System,74550,3,223650,Yasmine Mahmoud
+EG-IT-1218,2023-01-12,QNB Alahli,Tanta,Cloud Services,Local Data Center Hosting,14483,9,130347,Mariam Zaki
+EG-IT-1219,2023-12-12,CIB Bank,Cairo,Cybersecurity,Penetration Testing License,27424,9,246816,Sarah Hassan
+EG-IT-1220,2023-08-27,Fawry,Alexandria,Consulting,IT Security Audit,90499,1,90499,Yasmine Mahmoud
+EG-IT-1221,2023-10-02,Banque Misr,Hurghada,Consulting,Digital Transformation Strategy,103581,1,103581,Yasmine Mahmoud
+EG-IT-1222,2023-02-17,Juhayna,Cairo,Software,ERP License (Arabic),3347,30,100410,Yasmine Mahmoud
+EG-IT-1223,2023-01-13,Banque Misr,Cairo,Software,ERP License (Arabic),4820,60,289200,Mariam Zaki
+EG-IT-1224,2023-06-11,Juhayna,Giza,Consulting,Cloud Migration,138927,1,138927,Sarah Hassan
+EG-IT-1225,2023-05-14,Elsewedy Electric,Alexandria,Cybersecurity,Endpoint Protection,70565,2,141130,Sarah Hassan
+EG-IT-1226,2023-07-03,Banque Misr,Alexandria,Cloud Services,Local Data Center Hosting,58848,6,353088,Yasmine Mahmoud
+EG-IT-1227,2023-10-23,EgyptAir,Tanta,Cloud Services,AWS Storage,41444,10,414440,Yasmine Mahmoud
+EG-IT-1228,2023-03-04,Banque Misr,Giza,Consulting,Digital Transformation Strategy,111222,1,111222,Mariam Zaki
+EG-IT-1229,2023-10-30,Elsewedy Electric,Assiut,Consulting,Cloud Migration,235721,1,235721,Mohamed Ali
+EG-IT-1230,2023-02-16,Talaat Moustafa Group,Cairo,Hardware,Networking Switch,26065,14,364910,Ahmed Mansour
+EG-IT-1231,2023-12-09,EgyptAir,Assiut,Cloud Services,Local Data Center Hosting,16353,1,16353,Sarah Hassan
+EG-IT-1232,2023-12-11,Raya Holding,Assiut,Consulting,Digital Transformation Strategy,286977,1,286977,Khaled Ibrahim
+EG-IT-1233,2023-09-29,Telecom Egypt,Assiut,Hardware,Networking Switch,40902,10,409020,Ahmed Mansour
+EG-IT-1234,2023-07-05,Banque Misr,Hurghada,Consulting,IT Security Audit,128613,1,128613,Mohamed Ali
+EG-IT-1235,2023-04-05,Fawry,Assiut,Cloud Services,AWS Storage,27423,1,27423,Mohamed Ali
+EG-IT-1236,2023-02-10,Talaat Moustafa Group,Alexandria,Cloud Services,Google Cloud Support,22995,1,22995,Ahmed Mansour
+EG-IT-1237,2023-06-06,Telecom Egypt,Giza,Consulting,Cloud Migration,245640,1,245640,Khaled Ibrahim
+EG-IT-1238,2023-11-10,Juhayna,Mansoura,Software,CRM Subscription,10779,67,722193,Mohamed Ali
+EG-IT-1239,2023-11-30,QNB Alahli,Cairo,Cloud Services,Azure Managed Svcs,60741,6,364446,Mohamed Ali
+EG-IT-1240,2023-05-14,Elsewedy Electric,Hurghada,Cybersecurity,Endpoint Protection,58729,6,352374,Mariam Zaki
+EG-IT-1241,2023-05-22,QNB Alahli,Cairo,Consulting,IT Security Audit,242083,1,242083,Sarah Hassan
+EG-IT-1242,2023-08-27,Orascom Development,Cairo,Cybersecurity,Firewall License,51248,5,256240,Ahmed Mansour
+EG-IT-1243,2023-08-12,Fawry,Giza,Hardware,UPS Backup System,131417,13,1708421,Khaled Ibrahim
+EG-IT-1244,2023-05-08,QNB Alahli,Mansoura,Consulting,Cloud Migration,60365,1,60365,Khaled Ibrahim
+EG-IT-1245,2023-11-27,Banque Misr,Assiut,Software,Project Mgmt Tool,7240,86,622640,Mohamed Ali
+EG-IT-1246,2023-02-03,CIB Bank,Port Said,Software,Project Mgmt Tool,1122,85,95370,Mohamed Ali
+EG-IT-1247,2023-01-06,Raya Holding,Suez,Consulting,Cloud Migration,73337,1,73337,Yasmine Mahmoud
+EG-IT-1248,2023-02-21,Telecom Egypt,Giza,Consulting,IT Security Audit,134754,1,134754,Ahmed Mansour
+EG-IT-1249,2023-03-08,EgyptAir,Tanta,Cloud Services,Google Cloud Support,60607,5,303035,Mohamed Ali
+EG-IT-1250,2023-11-11,Fawry,Alexandria,Hardware,Server Rack v2,109439,8,875512,Khaled Ibrahim
+EG-IT-1251,2023-03-21,Orascom Development,Assiut,Software,Project Mgmt Tool,3738,78,291564,Mohamed Ali
+EG-IT-1252,2023-07-03,Telecom Egypt,Tanta,Cybersecurity,Endpoint Protection,68773,8,550184,Yasmine Mahmoud
+EG-IT-1253,2023-08-22,Talaat Moustafa Group,Mansoura,Cloud Services,AWS Storage,47454,4,189816,Mariam Zaki
+EG-IT-1254,2023-10-22,QNB Alahli,Port Said,Consulting,IT Security Audit,291670,1,291670,Mariam Zaki
+EG-IT-1255,2023-02-15,Juhayna,Hurghada,Software,HR & Payroll System,7950,21,166950,Mariam Zaki
+EG-IT-1256,2023-09-19,CIB Bank,Giza,Cloud Services,AWS Storage,27783,4,111132,Khaled Ibrahim
+EG-IT-1257,2023-02-23,Juhayna,Alexandria,Cloud Services,Local Data Center Hosting,76106,10,761060,Yasmine Mahmoud
+EG-IT-1258,2023-01-04,Orascom Development,Hurghada,Consulting,Cloud Migration,121475,1,121475,Ahmed Mansour
+EG-IT-1259,2023-07-18,CIB Bank,Assiut,Cybersecurity,Firewall License,13741,1,13741,Mariam Zaki
+EG-IT-1260,2023-01-20,EgyptAir,Cairo,Hardware,Server Rack v2,102426,4,409704,Yasmine Mahmoud
+EG-IT-1261,2023-03-06,CIB Bank,Giza,Cloud Services,Azure Managed Svcs,76239,9,686151,Sarah Hassan
+EG-IT-1262,2023-01-10,Fawry,Hurghada,Cloud Services,AWS Storage,19601,8,156808,Yasmine Mahmoud
+EG-IT-1263,2023-01-03,QNB Alahli,Suez,Cybersecurity,Firewall License,23591,2,47182,Ahmed Mansour
+EG-IT-1264,2023-01-12,Banque Misr,Giza,Cloud Services,AWS Storage,24862,8,198896,Ahmed Mansour
+EG-IT-1265,2023-05-08,EgyptAir,Tanta,Consulting,Cloud Migration,175235,1,175235,Ahmed Mansour
+EG-IT-1266,2023-11-18,Talaat Moustafa Group,Port Said,Software,CRM Subscription,8629,40,345160,Sarah Hassan
+EG-IT-1267,2023-01-13,QNB Alahli,Hurghada,Software,ERP License (Arabic),12291,79,970989,Ahmed Mansour
+EG-IT-1268,2023-10-04,EgyptAir,Suez,Consulting,IT Security Audit,123862,1,123862,Mariam Zaki
+EG-IT-1269,2023-10-06,Banque Misr,Tanta,Cybersecurity,Firewall License,70500,4,282000,Sarah Hassan
+EG-IT-1270,2023-12-04,Talaat Moustafa Group,Mansoura,Hardware,Laptop Pro X1,133439,4,533756,Yasmine Mahmoud
+EG-IT-1271,2023-05-08,Elsewedy Electric,Hurghada,Cloud Services,Google Cloud Support,60738,8,485904,Khaled Ibrahim
+EG-IT-1272,2023-04-17,Orascom Development,Port Said,Hardware,Networking Switch,22102,2,44204,Yasmine Mahmoud
+EG-IT-1273,2023-02-05,Banque Misr,Hurghada,Cybersecurity,Firewall License,40018,1,40018,Ahmed Mansour
+EG-IT-1274,2023-03-25,Talaat Moustafa Group,Assiut,Cybersecurity,Penetration Testing License,21836,3,65508,Mohamed Ali
+EG-IT-1275,2023-04-12,Banque Misr,Mansoura,Consulting,Digital Transformation Strategy,276694,1,276694,Sarah Hassan
+EG-IT-1276,2023-11-23,QNB Alahli,Tanta,Hardware,Networking Switch,78618,8,628944,Mohamed Ali
+EG-IT-1277,2023-01-31,Juhayna,Alexandria,Cloud Services,Azure Managed Svcs,42698,3,128094,Mohamed Ali
+EG-IT-1278,2023-04-15,Talaat Moustafa Group,Mansoura,Consulting,Cloud Migration,283323,1,283323,Mohamed Ali
+EG-IT-1279,2023-11-09,Raya Holding,Cairo,Cybersecurity,Penetration Testing License,12521,3,37563,Yasmine Mahmoud
+EG-IT-1280,2023-04-12,CIB Bank,Giza,Consulting,Cloud Migration,119346,1,119346,Sarah Hassan
+EG-IT-1281,2023-11-25,Banque Misr,Cairo,Cloud Services,AWS Storage,79703,1,79703,Mariam Zaki
+EG-IT-1282,2023-03-01,Banque Misr,Mansoura,Hardware,Laptop Pro X1,130882,2,261764,Sarah Hassan
+EG-IT-1283,2023-09-20,Orascom Development,Port Said,Consulting,Digital Transformation Strategy,268199,1,268199,Mohamed Ali
+EG-IT-1284,2023-07-25,Orascom Development,Alexandria,Cybersecurity,Firewall License,24872,7,174104,Mariam Zaki
+EG-IT-1285,2023-08-09,Telecom Egypt,Port Said,Consulting,Digital Transformation Strategy,150792,1,150792,Khaled Ibrahim
+EG-IT-1286,2023-12-10,Telecom Egypt,Mansoura,Software,ERP License (Arabic),9971,70,697970,Ahmed Mansour
+EG-IT-1287,2023-08-07,Orascom Development,Tanta,Software,CRM Subscription,4849,66,320034,Ahmed Mansour
+EG-IT-1288,2023-03-23,Raya Holding,Cairo,Cloud Services,Azure Managed Svcs,73788,8,590304,Khaled Ibrahim
+EG-IT-1289,2023-08-30,Fawry,Cairo,Software,ERP License (Arabic),14770,73,1078210,Mariam Zaki
+EG-IT-1290,2023-01-07,Talaat Moustafa Group,Cairo,Consulting,IT Security Audit,79851,1,79851,Mohamed Ali
+EG-IT-1291,2023-03-22,Elsewedy Electric,Suez,Software,HR & Payroll System,6126,28,171528,Yasmine Mahmoud
+EG-IT-1292,2023-11-20,CIB Bank,Hurghada,Cybersecurity,Firewall License,9662,7,67634,Ahmed Mansour
+EG-IT-1293,2023-07-07,Juhayna,Assiut,Consulting,IT Security Audit,70783,1,70783,Khaled Ibrahim
+EG-IT-1294,2023-11-20,Banque Misr,Hurghada,Consulting,Digital Transformation Strategy,174801,1,174801,Ahmed Mansour
+EG-IT-1295,2023-12-31,QNB Alahli,Tanta,Cybersecurity,Firewall License,72094,8,576752,Ahmed Mansour
+EG-IT-1296,2023-06-15,Banque Misr,Cairo,Hardware,Laptop Pro X1,29060,5,145300,Ahmed Mansour
+EG-IT-1297,2023-07-03,Fawry,Mansoura,Cloud Services,AWS Storage,38512,2,77024,Mohamed Ali
+EG-IT-1298,2023-08-16,Banque Misr,Cairo,Consulting,IT Security Audit,113293,1,113293,Yasmine Mahmoud
+EG-IT-1299,2023-03-20,EgyptAir,Alexandria,Software,Project Mgmt Tool,13066,5,65330,Mohamed Ali
+EG-IT-1300,2023-01-12,EgyptAir,Giza,Cloud Services,Google Cloud Support,54963,8,439704,Yasmine Mahmoud
+EG-IT-1301,2023-12-15,Fawry,Mansoura,Cloud Services,AWS Storage,16089,9,144801,Khaled Ibrahim
+EG-IT-1302,2023-09-23,EgyptAir,Cairo,Consulting,IT Security Audit,155008,1,155008,Mariam Zaki
+EG-IT-1303,2023-10-24,Juhayna,Mansoura,Consulting,IT Security Audit,187926,1,187926,Ahmed Mansour
+EG-IT-1304,2023-08-12,EgyptAir,Port Said,Cloud Services,Local Data Center Hosting,34766,1,34766,Khaled Ibrahim
+EG-IT-1305,2023-05-05,Raya Holding,Suez,Cybersecurity,Endpoint Protection,36818,2,73636,Mariam Zaki
+EG-IT-1306,2023-04-02,Elsewedy Electric,Alexandria,Hardware,UPS Backup System,143136,10,1431360,Sarah Hassan
+EG-IT-1307,2023-09-07,Telecom Egypt,Cairo,Software,Project Mgmt Tool,6996,49,342804,Mariam Zaki
+EG-IT-1308,2023-01-11,Fawry,Giza,Cybersecurity,Penetration Testing License,14706,3,44118,Mariam Zaki
+EG-IT-1309,2023-03-02,EgyptAir,Suez,Cybersecurity,Endpoint Protection,65938,7,461566,Mohamed Ali
+EG-IT-1310,2023-06-12,Talaat Moustafa Group,Tanta,Software,ERP License (Arabic),10381,92,955052,Yasmine Mahmoud
+EG-IT-1311,2023-02-03,Fawry,Giza,Cloud Services,Google Cloud Support,36786,3,110358,Mohamed Ali
+EG-IT-1312,2023-08-31,QNB Alahli,Hurghada,Cybersecurity,Firewall License,33411,10,334110,Sarah Hassan
+EG-IT-1313,2023-06-28,Telecom Egypt,Suez,Consulting,Digital Transformation Strategy,109324,1,109324,Yasmine Mahmoud
+EG-IT-1314,2023-09-27,Fawry,Port Said,Cybersecurity,Firewall License,9130,7,63910,Sarah Hassan
+EG-IT-1315,2023-02-23,Juhayna,Suez,Hardware,Networking Switch,100759,12,1209108,Mariam Zaki
+EG-IT-1316,2023-12-14,EgyptAir,Giza,Hardware,Networking Switch,60722,19,1153718,Yasmine Mahmoud
+EG-IT-1317,2023-02-15,Juhayna,Giza,Hardware,Server Rack v2,54254,18,976572,Sarah Hassan
+EG-IT-1318,2023-12-23,Telecom Egypt,Hurghada,Hardware,UPS Backup System,107573,9,968157,Sarah Hassan
+EG-IT-1319,2023-05-24,Juhayna,Hurghada,Software,HR & Payroll System,7738,73,564874,Khaled Ibrahim
+EG-IT-1320,2023-05-30,CIB Bank,Suez,Cloud Services,AWS Storage,28756,10,287560,Sarah Hassan
+EG-IT-1321,2023-04-09,Elsewedy Electric,Assiut,Consulting,IT Security Audit,101448,1,101448,Mohamed Ali
+EG-IT-1322,2023-09-28,Telecom Egypt,Assiut,Consulting,IT Security Audit,188774,1,188774,Mohamed Ali
+EG-IT-1323,2023-02-05,Juhayna,Port Said,Cybersecurity,Endpoint Protection,24958,5,124790,Sarah Hassan
+EG-IT-1324,2023-11-12,Raya Holding,Assiut,Hardware,Laptop Pro X1,80520,5,402600,Yasmine Mahmoud
+EG-IT-1325,2023-11-28,CIB Bank,Cairo,Cybersecurity,Endpoint Protection,33510,5,167550,Khaled Ibrahim
+EG-IT-1326,2023-05-27,QNB Alahli,Mansoura,Software,Project Mgmt Tool,13210,7,92470,Yasmine Mahmoud
+EG-IT-1327,2023-12-02,Raya Holding,Giza,Consulting,Digital Transformation Strategy,141728,1,141728,Yasmine Mahmoud
+EG-IT-1328,2023-03-06,CIB Bank,Alexandria,Consulting,Digital Transformation Strategy,138598,1,138598,Khaled Ibrahim
+EG-IT-1329,2023-07-20,Orascom Development,Mansoura,Hardware,UPS Backup System,123072,5,615360,Ahmed Mansour
+EG-IT-1330,2023-12-01,Talaat Moustafa Group,Hurghada,Hardware,Server Rack v2,51786,13,673218,Yasmine Mahmoud
+EG-IT-1331,2023-11-07,CIB Bank,Giza,Software,CRM Subscription,5329,57,303753,Khaled Ibrahim
+EG-IT-1332,2023-06-09,Elsewedy Electric,Assiut,Consulting,Cloud Migration,230037,1,230037,Khaled Ibrahim
+EG-IT-1333,2023-11-17,Telecom Egypt,Tanta,Software,Project Mgmt Tool,4757,62,294934,Khaled Ibrahim
+EG-IT-1334,2023-09-13,Banque Misr,Tanta,Consulting,IT Security Audit,118021,1,118021,Mariam Zaki
+EG-IT-1335,2023-03-13,Fawry,Cairo,Software,Project Mgmt Tool,8066,98,790468,Sarah Hassan
+EG-IT-1336,2023-04-13,Fawry,Port Said,Hardware,Networking Switch,126381,16,2022096,Khaled Ibrahim
+EG-IT-1337,2023-02-17,Orascom Development,Assiut,Software,Project Mgmt Tool,7037,85,598145,Ahmed Mansour
+EG-IT-1338,2023-07-15,Talaat Moustafa Group,Hurghada,Consulting,Digital Transformation Strategy,110852,1,110852,Ahmed Mansour
+EG-IT-1339,2023-05-04,QNB Alahli,Tanta,Cloud Services,AWS Storage,29765,2,59530,Mariam Zaki
+EG-IT-1340,2023-11-01,Telecom Egypt,Tanta,Hardware,Laptop Pro X1,99132,4,396528,Mariam Zaki
+EG-IT-1341,2023-06-07,Talaat Moustafa Group,Mansoura,Consulting,Cloud Migration,188944,1,188944,Ahmed Mansour
+EG-IT-1342,2023-03-31,Elsewedy Electric,Alexandria,Cybersecurity,Endpoint Protection,42515,6,255090,Yasmine Mahmoud
+EG-IT-1343,2023-03-18,QNB Alahli,Alexandria,Cloud Services,Google Cloud Support,30817,1,30817,Khaled Ibrahim
+EG-IT-1344,2023-01-03,Orascom Development,Mansoura,Consulting,IT Security Audit,159409,1,159409,Sarah Hassan
+EG-IT-1345,2023-01-10,Orascom Development,Port Said,Software,CRM Subscription,7273,87,632751,Mohamed Ali
+EG-IT-1346,2023-04-20,EgyptAir,Tanta,Cloud Services,AWS Storage,77675,10,776750,Ahmed Mansour
+EG-IT-1347,2023-12-27,Juhayna,Giza,Cybersecurity,Firewall License,42199,10,421990,Yasmine Mahmoud
+EG-IT-1348,2023-08-11,Orascom Development,Mansoura,Software,CRM Subscription,5369,69,370461,Mariam Zaki
+EG-IT-1349,2023-12-10,Orascom Development,Suez,Consulting,Cloud Migration,228266,1,228266,Yasmine Mahmoud
+EG-IT-1350,2023-01-22,Raya Holding,Cairo,Cloud Services,Google Cloud Support,10735,7,75145,Khaled Ibrahim
+EG-IT-1351,2023-05-16,Raya Holding,Tanta,Hardware,Server Rack v2,112601,13,1463813,Yasmine Mahmoud
+EG-IT-1352,2023-10-06,Elsewedy Electric,Alexandria,Software,Project Mgmt Tool,4025,49,197225,Ahmed Mansour
+EG-IT-1353,2023-07-26,Elsewedy Electric,Suez,Cloud Services,Local Data Center Hosting,34155,9,307395,Mariam Zaki
+EG-IT-1354,2023-01-24,Elsewedy Electric,Tanta,Hardware,UPS Backup System,64887,13,843531,Yasmine Mahmoud
+EG-IT-1355,2023-07-23,QNB Alahli,Assiut,Cloud Services,Google Cloud Support,53638,5,268190,Ahmed Mansour
+EG-IT-1356,2023-02-02,CIB Bank,Cairo,Consulting,Cloud Migration,118099,1,118099,Yasmine Mahmoud
+EG-IT-1357,2023-07-31,CIB Bank,Assiut,Consulting,Digital Transformation Strategy,99267,1,99267,Khaled Ibrahim
+EG-IT-1358,2023-09-08,Fawry,Tanta,Consulting,IT Security Audit,205802,1,205802,Mariam Zaki
+EG-IT-1359,2023-04-13,Talaat Moustafa Group,Port Said,Hardware,Laptop Pro X1,139926,12,1679112,Ahmed Mansour
+EG-IT-1360,2023-09-20,Fawry,Alexandria,Software,HR & Payroll System,6479,21,136059,Mohamed Ali
+EG-IT-1361,2023-10-15,Fawry,Suez,Cloud Services,AWS Storage,65747,3,197241,Mohamed Ali
+EG-IT-1362,2023-02-24,Fawry,Giza,Software,CRM Subscription,13035,94,1225290,Ahmed Mansour
+EG-IT-1363,2023-02-04,QNB Alahli,Suez,Cybersecurity,Penetration Testing License,67897,3,203691,Mariam Zaki
+EG-IT-1364,2023-12-21,Raya Holding,Giza,Software,ERP License (Arabic),6055,75,454125,Ahmed Mansour
+EG-IT-1365,2023-03-04,Juhayna,Mansoura,Hardware,Server Rack v2,130236,10,1302360,Yasmine Mahmoud
+EG-IT-1366,2023-03-31,EgyptAir,Giza,Hardware,UPS Backup System,114821,9,1033389,Mohamed Ali
+EG-IT-1367,2023-03-08,Talaat Moustafa Group,Hurghada,Hardware,Laptop Pro X1,100129,9,901161,Mohamed Ali
+EG-IT-1368,2023-04-27,Raya Holding,Assiut,Software,ERP License (Arabic),12638,84,1061592,Mariam Zaki
+EG-IT-1369,2023-08-24,CIB Bank,Suez,Hardware,UPS Backup System,148906,13,1935778,Mohamed Ali
+EG-IT-1370,2023-08-03,Banque Misr,Assiut,Consulting,Digital Transformation Strategy,280065,1,280065,Mariam Zaki
+EG-IT-1371,2023-08-14,QNB Alahli,Cairo,Cybersecurity,Firewall License,66431,7,465017,Khaled Ibrahim
+EG-IT-1372,2023-05-19,Talaat Moustafa Group,Mansoura,Cloud Services,Azure Managed Svcs,28744,1,28744,Sarah Hassan
+EG-IT-1373,2023-08-24,Fawry,Mansoura,Software,HR & Payroll System,5637,68,383316,Mohamed Ali
+EG-IT-1374,2023-05-26,Juhayna,Cairo,Cloud Services,AWS Storage,76423,4,305692,Mariam Zaki
+EG-IT-1375,2023-11-27,Fawry,Cairo,Cybersecurity,Firewall License,79274,1,79274,Khaled Ibrahim
+EG-IT-1376,2023-06-09,Telecom Egypt,Assiut,Cloud Services,AWS Storage,57265,9,515385,Mohamed Ali
+EG-IT-1377,2023-05-08,QNB Alahli,Hurghada,Software,HR & Payroll System,5481,82,449442,Mohamed Ali
+EG-IT-1378,2023-06-29,QNB Alahli,Cairo,Cloud Services,AWS Storage,55671,10,556710,Mohamed Ali
+EG-IT-1379,2023-06-20,EgyptAir,Tanta,Software,Project Mgmt Tool,10215,84,858060,Khaled Ibrahim
+EG-IT-1380,2023-08-01,QNB Alahli,Mansoura,Hardware,Networking Switch,65424,2,130848,Mariam Zaki
+EG-IT-1381,2023-05-10,Raya Holding,Giza,Cloud Services,AWS Storage,10634,10,106340,Ahmed Mansour
+EG-IT-1382,2023-10-09,EgyptAir,Giza,Cybersecurity,Penetration Testing License,52426,1,52426,Sarah Hassan
+EG-IT-1383,2023-08-06,QNB Alahli,Tanta,Cloud Services,Google Cloud Support,75393,2,150786,Sarah Hassan
+EG-IT-1384,2023-05-02,EgyptAir,Assiut,Cloud Services,AWS Storage,16650,4,66600,Sarah Hassan
+EG-IT-1385,2023-02-27,Telecom Egypt,Suez,Cloud Services,AWS Storage,46865,5,234325,Ahmed Mansour
+EG-IT-1386,2023-05-17,Juhayna,Alexandria,Cloud Services,Local Data Center Hosting,40133,4,160532,Mohamed Ali
+EG-IT-1387,2023-12-06,Orascom Development,Hurghada,Software,Project Mgmt Tool,14807,57,843999,Ahmed Mansour
+EG-IT-1388,2023-06-20,QNB Alahli,Assiut,Cloud Services,Local Data Center Hosting,14244,4,56976,Yasmine Mahmoud
+EG-IT-1389,2023-09-09,CIB Bank,Port Said,Cloud Services,Local Data Center Hosting,73251,2,146502,Khaled Ibrahim
+EG-IT-1390,2023-03-28,Telecom Egypt,Port Said,Software,HR & Payroll System,14046,77,1081542,Mariam Zaki
+EG-IT-1391,2023-09-28,Talaat Moustafa Group,Mansoura,Software,CRM Subscription,11178,46,514188,Ahmed Mansour
+EG-IT-1392,2023-04-27,QNB Alahli,Alexandria,Cloud Services,AWS Storage,66608,1,66608,Sarah Hassan
+EG-IT-1393,2023-06-07,Raya Holding,Alexandria,Cloud Services,Local Data Center Hosting,68937,9,620433,Sarah Hassan
+EG-IT-1394,2023-05-21,Raya Holding,Alexandria,Hardware,UPS Backup System,146889,17,2497113,Ahmed Mansour
+EG-IT-1395,2023-10-04,Telecom Egypt,Port Said,Cybersecurity,Penetration Testing License,35095,3,105285,Mohamed Ali
+EG-IT-1396,2023-03-01,CIB Bank,Assiut,Cloud Services,Azure Managed Svcs,25534,7,178738,Sarah Hassan
+EG-IT-1397,2023-09-10,EgyptAir,Assiut,Software,CRM Subscription,10112,99,1001088,Ahmed Mansour
+EG-IT-1398,2023-06-15,CIB Bank,Mansoura,Software,HR & Payroll System,10930,32,349760,Ahmed Mansour
+EG-IT-1399,2023-04-20,Orascom Development,Hurghada,Cloud Services,Google Cloud Support,22943,5,114715,Sarah Hassan
+EG-IT-1400,2023-08-22,Fawry,Port Said,Software,CRM Subscription,9559,60,573540,Khaled Ibrahim
+EG-IT-1401,2023-05-17,CIB Bank,Alexandria,Cloud Services,Azure Managed Svcs,41356,2,82712,Ahmed Mansour
+EG-IT-1402,2023-05-01,CIB Bank,Cairo,Consulting,IT Security Audit,270136,1,270136,Mariam Zaki
+EG-IT-1403,2023-01-10,Talaat Moustafa Group,Cairo,Cybersecurity,Firewall License,71760,7,502320,Mariam Zaki
+EG-IT-1404,2023-11-22,Telecom Egypt,Hurghada,Cloud Services,Google Cloud Support,62869,9,565821,Mohamed Ali
+EG-IT-1405,2023-01-05,Talaat Moustafa Group,Tanta,Cloud Services,AWS Storage,50622,2,101244,Ahmed Mansour
+EG-IT-1406,2023-12-06,Talaat Moustafa Group,Alexandria,Software,Project Mgmt Tool,1279,68,86972,Mariam Zaki
+EG-IT-1407,2024-01-01,EgyptAir,Alexandria,Consulting,Digital Transformation Strategy,53445,1,53445,Yasmine Mahmoud
+EG-IT-1408,2023-03-23,EgyptAir,Assiut,Cybersecurity,Firewall License,70610,4,282440,Mariam Zaki
+EG-IT-1409,2023-06-26,Juhayna,Mansoura,Consulting,Cloud Migration,225139,1,225139,Khaled Ibrahim
+EG-IT-1410,2023-01-19,Fawry,Giza,Cybersecurity,Penetration Testing License,49327,9,443943,Khaled Ibrahim
+EG-IT-1411,2023-08-19,Elsewedy Electric,Tanta,Cybersecurity,Penetration Testing License,45149,10,451490,Sarah Hassan
+EG-IT-1412,2023-10-21,CIB Bank,Tanta,Consulting,Digital Transformation Strategy,109838,1,109838,Mohamed Ali
+EG-IT-1413,2023-07-29,Orascom Development,Suez,Hardware,Networking Switch,102653,17,1745101,Sarah Hassan
+EG-IT-1414,2023-08-19,Talaat Moustafa Group,Tanta,Hardware,UPS Backup System,138521,14,1939294,Mohamed Ali
+EG-IT-1415,2023-10-06,Fawry,Suez,Cybersecurity,Endpoint Protection,73384,10,733840,Sarah Hassan
+EG-IT-1416,2023-05-22,CIB Bank,Suez,Hardware,Server Rack v2,56268,13,731484,Yasmine Mahmoud
+EG-IT-1417,2023-01-05,CIB Bank,Tanta,Software,ERP License (Arabic),6504,72,468288,Mohamed Ali
+EG-IT-1418,2023-04-26,Orascom Development,Hurghada,Hardware,Laptop Pro X1,56260,5,281300,Yasmine Mahmoud
+EG-IT-1419,2023-01-18,Elsewedy Electric,Hurghada,Software,HR & Payroll System,13785,85,1171725,Mariam Zaki
+EG-IT-1420,2023-08-21,QNB Alahli,Mansoura,Cybersecurity,Endpoint Protection,66917,5,334585,Khaled Ibrahim
+EG-IT-1421,2023-08-10,Juhayna,Mansoura,Software,ERP License (Arabic),5936,80,474880,Yasmine Mahmoud
+EG-IT-1422,2023-05-12,Banque Misr,Tanta,Software,ERP License (Arabic),11898,69,820962,Mohamed Ali
+EG-IT-1423,2023-10-06,Fawry,Cairo,Cybersecurity,Firewall License,40431,7,283017,Khaled Ibrahim
+EG-IT-1424,2023-02-21,CIB Bank,Assiut,Consulting,IT Security Audit,294113,1,294113,Khaled Ibrahim
+EG-IT-1425,2023-11-20,Banque Misr,Assiut,Cybersecurity,Endpoint Protection,8480,4,33920,Sarah Hassan
+EG-IT-1426,2023-08-22,Orascom Development,Alexandria,Software,ERP License (Arabic),2267,20,45340,Mariam Zaki
+EG-IT-1427,2023-09-23,EgyptAir,Mansoura,Cybersecurity,Firewall License,16380,6,98280,Sarah Hassan
+EG-IT-1428,2023-10-07,EgyptAir,Mansoura,Consulting,Digital Transformation Strategy,136977,1,136977,Mariam Zaki
+EG-IT-1429,2023-03-25,Fawry,Tanta,Consulting,IT Security Audit,204967,1,204967,Yasmine Mahmoud
+EG-IT-1430,2023-06-06,Banque Misr,Port Said,Cybersecurity,Firewall License,78505,1,78505,Sarah Hassan
+EG-IT-1431,2023-11-01,Fawry,Mansoura,Hardware,Laptop Pro X1,78125,7,546875,Sarah Hassan
+EG-IT-1432,2023-03-14,Orascom Development,Assiut,Consulting,Cloud Migration,266587,1,266587,Khaled Ibrahim
+EG-IT-1433,2023-08-26,Juhayna,Suez,Consulting,IT Security Audit,128739,1,128739,Mohamed Ali
+EG-IT-1434,2023-03-26,Telecom Egypt,Port Said,Cloud Services,Azure Managed Svcs,34869,8,278952,Yasmine Mahmoud
+EG-IT-1435,2023-06-13,Elsewedy Electric,Assiut,Consulting,Digital Transformation Strategy,103781,1,103781,Mariam Zaki
+EG-IT-1436,2023-05-16,Banque Misr,Tanta,Consulting,Cloud Migration,235277,1,235277,Sarah Hassan
+EG-IT-1437,2023-03-24,EgyptAir,Suez,Hardware,Networking Switch,39404,10,394040,Yasmine Mahmoud
+EG-IT-1438,2023-11-13,EgyptAir,Tanta,Consulting,Digital Transformation Strategy,108765,1,108765,Sarah Hassan
+EG-IT-1439,2023-09-13,Banque Misr,Cairo,Cloud Services,AWS Storage,58354,3,175062,Ahmed Mansour
+EG-IT-1440,2023-05-19,Fawry,Tanta,Cloud Services,AWS Storage,69773,7,488411,Mohamed Ali
+EG-IT-1441,2023-11-08,Talaat Moustafa Group,Giza,Consulting,Digital Transformation Strategy,63869,1,63869,Sarah Hassan
+EG-IT-1442,2023-11-20,Banque Misr,Suez,Cloud Services,Azure Managed Svcs,30696,1,30696,Khaled Ibrahim
+EG-IT-1443,2023-02-27,Banque Misr,Alexandria,Software,CRM Subscription,11148,99,1103652,Mohamed Ali
+EG-IT-1444,2023-04-18,Raya Holding,Assiut,Hardware,Networking Switch,112534,10,1125340,Ahmed Mansour
+EG-IT-1445,2023-02-04,Juhayna,Assiut,Cloud Services,Google Cloud Support,32671,3,98013,Sarah Hassan
+EG-IT-1446,2023-10-07,Elsewedy Electric,Assiut,Hardware,Server Rack v2,93698,2,187396,Ahmed Mansour
+EG-IT-1447,2023-07-12,Talaat Moustafa Group,Cairo,Cybersecurity,Penetration Testing License,58204,5,291020,Ahmed Mansour
+EG-IT-1448,2023-09-20,Raya Holding,Tanta,Cybersecurity,Penetration Testing License,74430,7,521010,Mohamed Ali
+EG-IT-1449,2023-01-09,Telecom Egypt,Cairo,Hardware,Networking Switch,99866,19,1897454,Khaled Ibrahim
+EG-IT-1450,2023-12-01,QNB Alahli,Alexandria,Hardware,Server Rack v2,44472,17,756024,Sarah Hassan
+EG-IT-1451,2023-08-12,Talaat Moustafa Group,Tanta,Consulting,Digital Transformation Strategy,98809,1,98809,Ahmed Mansour
+EG-IT-1452,2023-12-30,Raya Holding,Mansoura,Software,CRM Subscription,7022,20,140440,Khaled Ibrahim
+EG-IT-1453,2023-03-03,QNB Alahli,Assiut,Cloud Services,Google Cloud Support,71153,10,711530,Mariam Zaki
+EG-IT-1454,2023-07-08,Talaat Moustafa Group,Port Said,Cybersecurity,Penetration Testing License,34894,2,69788,Mohamed Ali
+EG-IT-1455,2023-10-01,QNB Alahli,Alexandria,Hardware,Networking Switch,41435,9,372915,Sarah Hassan
+EG-IT-1456,2023-10-25,Elsewedy Electric,Alexandria,Software,Project Mgmt Tool,2027,94,190538,Ahmed Mansour
+EG-IT-1457,2023-10-29,QNB Alahli,Giza,Software,HR & Payroll System,10484,70,733880,Mariam Zaki
+EG-IT-1458,2023-12-03,Juhayna,Port Said,Software,CRM Subscription,5042,76,383192,Mariam Zaki
+EG-IT-1459,2023-09-03,CIB Bank,Mansoura,Consulting,IT Security Audit,259846,1,259846,Mariam Zaki
+EG-IT-1460,2023-10-27,Fawry,Mansoura,Cybersecurity,Penetration Testing License,29694,9,267246,Mariam Zaki
+EG-IT-1461,2023-01-16,Telecom Egypt,Tanta,Consulting,Cloud Migration,221888,1,221888,Mariam Zaki
+EG-IT-1462,2023-01-19,EgyptAir,Tanta,Consulting,Digital Transformation Strategy,239039,1,239039,Yasmine Mahmoud
+EG-IT-1463,2023-02-11,Talaat Moustafa Group,Hurghada,Cybersecurity,Firewall License,32812,6,196872,Mariam Zaki
+EG-IT-1464,2023-06-26,EgyptAir,Giza,Consulting,Digital Transformation Strategy,71570,1,71570,Khaled Ibrahim
+EG-IT-1465,2023-07-15,Telecom Egypt,Assiut,Software,ERP License (Arabic),1382,71,98122,Yasmine Mahmoud
+EG-IT-1466,2023-01-07,Fawry,Port Said,Cybersecurity,Penetration Testing License,29438,3,88314,Mariam Zaki
+EG-IT-1467,2023-07-12,Elsewedy Electric,Alexandria,Cloud Services,Azure Managed Svcs,54577,8,436616,Mohamed Ali
+EG-IT-1468,2023-12-13,Talaat Moustafa Group,Cairo,Software,ERP License (Arabic),8475,79,669525,Yasmine Mahmoud
+EG-IT-1469,2023-02-28,Talaat Moustafa Group,Mansoura,Cybersecurity,Penetration Testing License,60846,5,304230,Ahmed Mansour
+EG-IT-1470,2023-02-09,Banque Misr,Giza,Hardware,Networking Switch,82257,17,1398369,Ahmed Mansour
+EG-IT-1471,2023-01-17,Orascom Development,Assiut,Hardware,UPS Backup System,87597,18,1576746,Mariam Zaki
+EG-IT-1472,2023-01-08,Raya Holding,Cairo,Hardware,Laptop Pro X1,69254,14,969556,Yasmine Mahmoud
+EG-IT-1473,2023-02-21,Banque Misr,Port Said,Consulting,Cloud Migration,95814,1,95814,Mohamed Ali
+EG-IT-1474,2023-02-01,EgyptAir,Hurghada,Consulting,Digital Transformation Strategy,124419,1,124419,Mohamed Ali
+EG-IT-1475,2023-09-27,CIB Bank,Assiut,Software,ERP License (Arabic),13312,78,1038336,Yasmine Mahmoud
+EG-IT-1476,2023-10-06,Telecom Egypt,Tanta,Consulting,IT Security Audit,113565,1,113565,Khaled Ibrahim
+EG-IT-1477,2023-12-15,Elsewedy Electric,Assiut,Hardware,Laptop Pro X1,45347,11,498817,Yasmine Mahmoud
+EG-IT-1478,2023-02-05,Raya Holding,Hurghada,Consulting,Cloud Migration,80859,1,80859,Khaled Ibrahim
+EG-IT-1479,2023-06-07,Juhayna,Cairo,Cybersecurity,Penetration Testing License,74428,7,520996,Mohamed Ali
+EG-IT-1480,2023-11-05,Telecom Egypt,Mansoura,Hardware,Laptop Pro X1,149072,15,2236080,Khaled Ibrahim
+EG-IT-1481,2023-12-24,Elsewedy Electric,Assiut,Hardware,Networking Switch,91385,12,1096620,Khaled Ibrahim
+EG-IT-1482,2023-03-12,EgyptAir,Hurghada,Cybersecurity,Endpoint Protection,51849,9,466641,Yasmine Mahmoud
+EG-IT-1483,2023-07-04,QNB Alahli,Alexandria,Hardware,Networking Switch,32378,15,485670,Sarah Hassan
+EG-IT-1484,2023-10-25,Raya Holding,Giza,Hardware,UPS Backup System,113959,4,455836,Mohamed Ali
+EG-IT-1485,2023-05-12,Telecom Egypt,Mansoura,Cloud Services,AWS Storage,28894,8,231152,Ahmed Mansour
+EG-IT-1486,2023-04-05,Raya Holding,Hurghada,Hardware,UPS Backup System,122185,7,855295,Ahmed Mansour
+EG-IT-1487,2023-12-04,Elsewedy Electric,Tanta,Hardware,UPS Backup System,72195,8,577560,Mariam Zaki
+EG-IT-1488,2023-11-11,Juhayna,Hurghada,Cybersecurity,Penetration Testing License,73908,7,517356,Ahmed Mansour
+EG-IT-1489,2023-04-30,CIB Bank,Cairo,Consulting,IT Security Audit,96176,1,96176,Mohamed Ali
+EG-IT-1490,2023-04-01,Elsewedy Electric,Giza,Cloud Services,AWS Storage,57541,4,230164,Ahmed Mansour
+EG-IT-1491,2023-02-26,Juhayna,Hurghada,Hardware,UPS Backup System,133535,20,2670700,Khaled Ibrahim
+EG-IT-1492,2023-04-03,Elsewedy Electric,Cairo,Cybersecurity,Endpoint Protection,15160,3,45480,Khaled Ibrahim
+EG-IT-1493,2023-08-11,CIB Bank,Hurghada,Consulting,Digital Transformation Strategy,220334,1,220334,Khaled Ibrahim
+EG-IT-1494,2023-01-28,Telecom Egypt,Assiut,Software,HR & Payroll System,14933,83,1239439,Khaled Ibrahim
+EG-IT-1495,2023-02-18,Fawry,Cairo,Cloud Services,Local Data Center Hosting,44397,4,177588,Yasmine Mahmoud
+EG-IT-1496,2023-07-17,EgyptAir,Alexandria,Software,CRM Subscription,5060,68,344080,Sarah Hassan
+EG-IT-1497,2023-08-19,QNB Alahli,Assiut,Cybersecurity,Penetration Testing License,59549,1,59549,Mohamed Ali
+EG-IT-1498,2023-05-01,Banque Misr,Giza,Cybersecurity,Penetration Testing License,72562,5,362810,Khaled Ibrahim
+EG-IT-1499,2023-02-11,Banque Misr,Tanta,Hardware,Laptop Pro X1,26689,11,293579,Ahmed Mansour
+EG-IT-1500,2023-07-26,Talaat Moustafa Group,Mansoura,Consulting,IT Security Audit,198314,1,198314,Yasmine Mahmoud
+EG-IT-1501,2023-10-31,Telecom Egypt,Alexandria,Consulting,Digital Transformation Strategy,250558,1,250558,Mariam Zaki
+EG-IT-1502,2023-03-08,Fawry,Giza,Cybersecurity,Firewall License,71579,3,214737,Mohamed Ali
+EG-IT-1503,2023-01-26,Raya Holding,Cairo,Cloud Services,Google Cloud Support,64787,3,194361,Khaled Ibrahim
+EG-IT-1504,2023-11-21,Talaat Moustafa Group,Mansoura,Hardware,Networking Switch,45544,17,774248,Ahmed Mansour
+EG-IT-1505,2023-03-13,Juhayna,Tanta,Cloud Services,Azure Managed Svcs,45287,7,317009,Sarah Hassan
+EG-IT-1506,2023-03-26,QNB Alahli,Tanta,Cloud Services,Azure Managed Svcs,9540,10,95400,Ahmed Mansour
+EG-IT-1507,2023-10-12,Fawry,Giza,Software,CRM Subscription,7887,82,646734,Mohamed Ali
+EG-IT-1508,2023-03-26,Banque Misr,Assiut,Hardware,Networking Switch,76374,20,1527480,Mariam Zaki
+EG-IT-1509,2023-09-08,Telecom Egypt,Giza,Cybersecurity,Firewall License,33351,3,100053,Mariam Zaki
+EG-IT-1510,2023-12-19,Elsewedy Electric,Port Said,Cloud Services,Azure Managed Svcs,30667,4,122668,Mariam Zaki
+EG-IT-1511,2023-03-14,Talaat Moustafa Group,Tanta,Hardware,Networking Switch,145581,4,582324,Ahmed Mansour
+EG-IT-1512,2023-08-26,Fawry,Mansoura,Consulting,Digital Transformation Strategy,255629,1,255629,Mariam Zaki
+EG-IT-1513,2023-11-10,Raya Holding,Mansoura,Consulting,Digital Transformation Strategy,100966,1,100966,Ahmed Mansour
+EG-IT-1514,2023-05-07,Telecom Egypt,Hurghada,Cybersecurity,Penetration Testing License,8408,1,8408,Yasmine Mahmoud
+EG-IT-1515,2023-07-29,Raya Holding,Tanta,Consulting,Cloud Migration,209329,1,209329,Khaled Ibrahim
+EG-IT-1516,2023-06-24,Fawry,Assiut,Consulting,Cloud Migration,148486,1,148486,Mohamed Ali
+EG-IT-1517,2023-07-14,Banque Misr,Tanta,Cloud Services,AWS Storage,20554,8,164432,Mariam Zaki
+EG-IT-1518,2023-08-19,Raya Holding,Assiut,Hardware,UPS Backup System,106221,2,212442,Mohamed Ali
+EG-IT-1519,2023-11-06,Telecom Egypt,Giza,Cybersecurity,Firewall License,32562,3,97686,Khaled Ibrahim
+EG-IT-1520,2023-07-25,Telecom Egypt,Cairo,Software,Project Mgmt Tool,9463,33,312279,Yasmine Mahmoud
+EG-IT-1521,2023-07-23,Banque Misr,Alexandria,Consulting,IT Security Audit,95408,1,95408,Sarah Hassan
+EG-IT-1522,2023-10-12,Elsewedy Electric,Mansoura,Consulting,IT Security Audit,146991,1,146991,Ahmed Mansour
+EG-IT-1523,2023-10-31,CIB Bank,Cairo,Cybersecurity,Penetration Testing License,6041,2,12082,Mohamed Ali
+EG-IT-1524,2023-09-04,Talaat Moustafa Group,Hurghada,Cybersecurity,Firewall License,19991,10,199910,Sarah Hassan
+EG-IT-1525,2023-02-16,EgyptAir,Hurghada,Cybersecurity,Penetration Testing License,24123,1,24123,Yasmine Mahmoud
+EG-IT-1526,2023-11-03,QNB Alahli,Cairo,Consulting,Cloud Migration,116815,1,116815,Khaled Ibrahim
+EG-IT-1527,2023-06-14,Talaat Moustafa Group,Mansoura,Software,CRM Subscription,14312,53,758536,Khaled Ibrahim
+EG-IT-1528,2023-02-09,CIB Bank,Assiut,Cybersecurity,Penetration Testing License,10873,1,10873,Ahmed Mansour
+EG-IT-1529,2023-01-21,Talaat Moustafa Group,Hurghada,Software,ERP License (Arabic),7035,67,471345,Mariam Zaki
+EG-IT-1530,2023-10-26,Elsewedy Electric,Cairo,Cybersecurity,Penetration Testing License,13143,7,92001,Ahmed Mansour
+EG-IT-1531,2023-07-24,CIB Bank,Cairo,Consulting,Digital Transformation Strategy,103035,1,103035,Yasmine Mahmoud
+EG-IT-1532,2023-03-11,QNB Alahli,Hurghada,Software,ERP License (Arabic),4334,57,247038,Mohamed Ali
+EG-IT-1533,2023-02-12,Elsewedy Electric,Cairo,Software,CRM Subscription,11699,55,643445,Yasmine Mahmoud
+EG-IT-1534,2023-12-05,Juhayna,Hurghada,Consulting,Digital Transformation Strategy,138206,1,138206,Mohamed Ali
+EG-IT-1535,2023-07-15,Talaat Moustafa Group,Port Said,Software,Project Mgmt Tool,2672,40,106880,Mohamed Ali
+EG-IT-1536,2023-06-18,EgyptAir,Giza,Software,Project Mgmt Tool,9126,96,876096,Mariam Zaki
+EG-IT-1537,2023-10-06,Elsewedy Electric,Tanta,Consulting,Cloud Migration,224391,1,224391,Khaled Ibrahim
+EG-IT-1538,2023-09-19,CIB Bank,Mansoura,Cloud Services,AWS Storage,15056,5,75280,Khaled Ibrahim
+EG-IT-1539,2023-06-01,EgyptAir,Suez,Hardware,Networking Switch,35076,17,596292,Yasmine Mahmoud
+EG-IT-1540,2023-11-18,Telecom Egypt,Alexandria,Software,ERP License (Arabic),4158,10,41580,Khaled Ibrahim
+EG-IT-1541,2023-10-26,Orascom Development,Mansoura,Hardware,Server Rack v2,113665,14,1591310,Mohamed Ali
+EG-IT-1542,2023-11-23,EgyptAir,Alexandria,Consulting,IT Security Audit,216023,1,216023,Mariam Zaki
+EG-IT-1543,2023-09-20,Talaat Moustafa Group,Suez,Hardware,Laptop Pro X1,20241,13,263133,Khaled Ibrahim
+EG-IT-1544,2023-05-21,QNB Alahli,Port Said,Consulting,Cloud Migration,285866,1,285866,Mariam Zaki
+EG-IT-1545,2023-07-26,Banque Misr,Cairo,Cloud Services,AWS Storage,70551,9,634959,Yasmine Mahmoud
+EG-IT-1546,2023-12-13,CIB Bank,Hurghada,Cybersecurity,Firewall License,37042,9,333378,Mohamed Ali
+EG-IT-1547,2023-07-01,Talaat Moustafa Group,Cairo,Cybersecurity,Firewall License,20303,3,60909,Mohamed Ali
+EG-IT-1548,2023-09-21,Elsewedy Electric,Alexandria,Software,Project Mgmt Tool,1503,43,64629,Khaled Ibrahim
+EG-IT-1549,2023-01-06,CIB Bank,Port Said,Hardware,Server Rack v2,40929,20,818580,Yasmine Mahmoud
+EG-IT-1550,2023-09-01,Raya Holding,Alexandria,Consulting,Digital Transformation Strategy,270266,1,270266,Mariam Zaki
+EG-IT-1551,2023-11-18,CIB Bank,Giza,Consulting,Digital Transformation Strategy,193717,1,193717,Mohamed Ali
+EG-IT-1552,2023-12-15,QNB Alahli,Hurghada,Hardware,Laptop Pro X1,116075,7,812525,Khaled Ibrahim
+EG-IT-1553,2023-09-29,Juhayna,Port Said,Cloud Services,Google Cloud Support,68960,1,68960,Sarah Hassan
+EG-IT-1554,2023-12-13,Fawry,Giza,Hardware,Laptop Pro X1,71428,8,571424,Mariam Zaki
+EG-IT-1555,2023-02-15,Juhayna,Alexandria,Cloud Services,Azure Managed Svcs,74192,10,741920,Mariam Zaki
+EG-IT-1556,2023-01-27,Banque Misr,Hurghada,Consulting,IT Security Audit,193795,1,193795,Sarah Hassan
+EG-IT-1557,2023-10-22,QNB Alahli,Giza,Software,CRM Subscription,13867,78,1081626,Ahmed Mansour
+EG-IT-1558,2023-09-15,Juhayna,Tanta,Software,HR & Payroll System,6575,82,539150,Yasmine Mahmoud
+EG-IT-1559,2023-01-28,Fawry,Alexandria,Cloud Services,AWS Storage,68771,9,618939,Mariam Zaki
+EG-IT-1560,2024-01-01,Raya Holding,Assiut,Cybersecurity,Endpoint Protection,76087,1,76087,Yasmine Mahmoud
+EG-IT-1561,2023-10-13,Juhayna,Assiut,Cybersecurity,Penetration Testing License,38884,5,194420,Ahmed Mansour
+EG-IT-1562,2023-03-05,Juhayna,Giza,Consulting,Cloud Migration,246578,1,246578,Sarah Hassan
+EG-IT-1563,2023-02-03,Fawry,Tanta,Cloud Services,Google Cloud Support,42928,7,300496,Sarah Hassan
+EG-IT-1564,2023-03-19,Banque Misr,Giza,Hardware,UPS Backup System,62213,3,186639,Mariam Zaki
+EG-IT-1565,2023-07-14,EgyptAir,Cairo,Hardware,Server Rack v2,29319,10,293190,Ahmed Mansour
+EG-IT-1566,2023-09-23,Banque Misr,Hurghada,Cybersecurity,Endpoint Protection,8784,7,61488,Ahmed Mansour
+EG-IT-1567,2023-09-15,QNB Alahli,Tanta,Consulting,IT Security Audit,174300,1,174300,Yasmine Mahmoud
+EG-IT-1568,2023-01-29,Juhayna,Cairo,Hardware,Server Rack v2,115326,16,1845216,Yasmine Mahmoud
+EG-IT-1569,2023-06-14,Banque Misr,Hurghada,Cloud Services,Azure Managed Svcs,76011,8,608088,Sarah Hassan
+EG-IT-1570,2023-09-28,Fawry,Alexandria,Consulting,Cloud Migration,277506,1,277506,Khaled Ibrahim
+EG-IT-1571,2023-10-26,Juhayna,Port Said,Hardware,Networking Switch,91307,15,1369605,Mohamed Ali
+EG-IT-1572,2023-02-10,QNB Alahli,Alexandria,Cloud Services,Local Data Center Hosting,69808,1,69808,Khaled Ibrahim
+EG-IT-1573,2023-03-25,Banque Misr,Alexandria,Cybersecurity,Penetration Testing License,13500,5,67500,Mohamed Ali
+EG-IT-1574,2023-10-12,QNB Alahli,Tanta,Cybersecurity,Firewall License,55661,5,278305,Sarah Hassan
+EG-IT-1575,2023-05-14,QNB Alahli,Cairo,Consulting,Cloud Migration,176862,1,176862,Mohamed Ali
+EG-IT-1576,2023-08-03,CIB Bank,Assiut,Consulting,Digital Transformation Strategy,226838,1,226838,Ahmed Mansour
+EG-IT-1577,2023-02-15,Elsewedy Electric,Hurghada,Cloud Services,AWS Storage,36657,3,109971,Mariam Zaki
+EG-IT-1578,2023-05-28,Banque Misr,Tanta,Cybersecurity,Endpoint Protection,23915,4,95660,Mohamed Ali
+EG-IT-1579,2023-01-27,Banque Misr,Giza,Hardware,UPS Backup System,68374,6,410244,Ahmed Mansour
+EG-IT-1580,2023-05-07,Fawry,Giza,Software,HR & Payroll System,11414,56,639184,Khaled Ibrahim
+EG-IT-1581,2023-05-16,Orascom Development,Port Said,Cloud Services,AWS Storage,48463,1,48463,Sarah Hassan
+EG-IT-1582,2023-11-23,Telecom Egypt,Port Said,Cybersecurity,Endpoint Protection,43664,2,87328,Mariam Zaki
+EG-IT-1583,2023-01-11,QNB Alahli,Suez,Hardware,Networking Switch,143272,6,859632,Mariam Zaki
+EG-IT-1584,2023-08-26,Juhayna,Alexandria,Software,Project Mgmt Tool,7954,65,517010,Sarah Hassan
+EG-IT-1585,2023-08-14,CIB Bank,Suez,Software,CRM Subscription,11196,80,895680,Mohamed Ali
+EG-IT-1586,2023-02-07,EgyptAir,Assiut,Cloud Services,Azure Managed Svcs,48083,2,96166,Mariam Zaki
+EG-IT-1587,2023-08-19,Banque Misr,Port Said,Cloud Services,Local Data Center Hosting,37525,1,37525,Yasmine Mahmoud
+EG-IT-1588,2023-01-03,Telecom Egypt,Hurghada,Cloud Services,Local Data Center Hosting,36746,10,367460,Ahmed Mansour
+EG-IT-1589,2023-08-19,Elsewedy Electric,Mansoura,Consulting,Cloud Migration,165276,1,165276,Sarah Hassan
+EG-IT-1590,2023-10-09,Talaat Moustafa Group,Suez,Consulting,IT Security Audit,241940,1,241940,Yasmine Mahmoud
+EG-IT-1591,2023-05-25,Elsewedy Electric,Assiut,Consulting,Digital Transformation Strategy,264401,1,264401,Sarah Hassan
+EG-IT-1592,2023-04-20,QNB Alahli,Port Said,Software,ERP License (Arabic),7707,49,377643,Ahmed Mansour
+EG-IT-1593,2023-07-19,Juhayna,Suez,Hardware,UPS Backup System,109000,11,1199000,Khaled Ibrahim
+EG-IT-1594,2023-03-26,Talaat Moustafa Group,Hurghada,Hardware,Server Rack v2,88870,14,1244180,Khaled Ibrahim
+EG-IT-1595,2023-06-08,Orascom Development,Port Said,Cybersecurity,Firewall License,70331,7,492317,Mariam Zaki
+EG-IT-1596,2023-01-08,QNB Alahli,Cairo,Hardware,Networking Switch,66100,7,462700,Mariam Zaki
+EG-IT-1597,2023-06-04,Juhayna,Mansoura,Cloud Services,Local Data Center Hosting,6937,5,34685,Yasmine Mahmoud
+EG-IT-1598,2023-06-30,Raya Holding,Assiut,Software,CRM Subscription,9556,32,305792,Mohamed Ali
+EG-IT-1599,2023-06-12,Fawry,Giza,Software,CRM Subscription,7156,88,629728,Ahmed Mansour
+EG-IT-1600,2023-09-27,EgyptAir,Cairo,Cybersecurity,Penetration Testing License,57475,5,287375,Mohamed Ali
+EG-IT-1601,2023-10-05,Fawry,Assiut,Cloud Services,AWS Storage,69622,1,69622,Mariam Zaki
+EG-IT-1602,2023-10-20,Orascom Development,Hurghada,Consulting,Digital Transformation Strategy,217313,1,217313,Ahmed Mansour
+EG-IT-1603,2023-01-15,Orascom Development,Assiut,Cybersecurity,Penetration Testing License,9007,10,90070,Ahmed Mansour
+EG-IT-1604,2023-02-21,EgyptAir,Tanta,Consulting,Cloud Migration,124261,1,124261,Mohamed Ali
+EG-IT-1605,2023-04-28,Juhayna,Alexandria,Cloud Services,Local Data Center Hosting,30941,9,278469,Yasmine Mahmoud
+EG-IT-1606,2023-05-10,Orascom Development,Tanta,Hardware,UPS Backup System,116710,18,2100780,Khaled Ibrahim
+EG-IT-1607,2023-01-26,Elsewedy Electric,Hurghada,Software,HR & Payroll System,11304,43,486072,Mohamed Ali
+EG-IT-1608,2023-11-23,Talaat Moustafa Group,Suez,Cloud Services,Google Cloud Support,76049,3,228147,Khaled Ibrahim
+EG-IT-1609,2023-11-11,CIB Bank,Tanta,Hardware,Networking Switch,82598,14,1156372,Mohamed Ali
+EG-IT-1610,2023-05-20,EgyptAir,Giza,Software,HR & Payroll System,9942,74,735708,Ahmed Mansour
+EG-IT-1611,2023-05-22,EgyptAir,Tanta,Software,Project Mgmt Tool,8826,84,741384,Khaled Ibrahim
+EG-IT-1612,2023-11-18,Raya Holding,Cairo,Cybersecurity,Firewall License,64799,10,647990,Ahmed Mansour
+EG-IT-1613,2023-01-18,Fawry,Alexandria,Software,Project Mgmt Tool,1667,40,66680,Yasmine Mahmoud
+EG-IT-1614,2023-07-16,Juhayna,Hurghada,Cybersecurity,Firewall License,55763,5,278815,Sarah Hassan
+EG-IT-1615,2023-05-28,Raya Holding,Suez,Cybersecurity,Endpoint Protection,36955,7,258685,Khaled Ibrahim
+EG-IT-1616,2023-06-16,Elsewedy Electric,Mansoura,Cloud Services,Local Data Center Hosting,33189,1,33189,Khaled Ibrahim
+EG-IT-1617,2023-11-20,QNB Alahli,Tanta,Consulting,Cloud Migration,161838,1,161838,Sarah Hassan
+EG-IT-1618,2023-12-29,Banque Misr,Mansoura,Cloud Services,Local Data Center Hosting,43298,8,346384,Khaled Ibrahim
+EG-IT-1619,2023-09-08,Juhayna,Mansoura,Cloud Services,Local Data Center Hosting,19705,3,59115,Ahmed Mansour
+EG-IT-1620,2023-06-12,Talaat Moustafa Group,Suez,Hardware,Server Rack v2,112183,9,1009647,Mariam Zaki
+EG-IT-1621,2023-05-03,Raya Holding,Hurghada,Hardware,Server Rack v2,46937,8,375496,Sarah Hassan
+EG-IT-1622,2023-10-09,Elsewedy Electric,Alexandria,Cybersecurity,Penetration Testing License,63323,6,379938,Khaled Ibrahim
+EG-IT-1623,2023-01-01,Elsewedy Electric,Suez,Hardware,Server Rack v2,124630,7,872410,Sarah Hassan
+EG-IT-1624,2023-12-28,EgyptAir,Suez,Consulting,Digital Transformation Strategy,280633,1,280633,Khaled Ibrahim
+EG-IT-1625,2023-07-27,Banque Misr,Tanta,Software,HR & Payroll System,4885,99,483615,Ahmed Mansour
+EG-IT-1626,2023-06-21,QNB Alahli,Alexandria,Cloud Services,AWS Storage,71093,5,355465,Yasmine Mahmoud
+EG-IT-1627,2023-11-26,Raya Holding,Suez,Hardware,Server Rack v2,113286,19,2152434,Khaled Ibrahim
+EG-IT-1628,2023-06-12,CIB Bank,Port Said,Hardware,UPS Backup System,140854,2,281708,Ahmed Mansour
+EG-IT-1629,2023-01-10,Talaat Moustafa Group,Alexandria,Hardware,Server Rack v2,39960,20,799200,Khaled Ibrahim
+EG-IT-1630,2023-06-02,Juhayna,Assiut,Software,Project Mgmt Tool,4345,60,260700,Sarah Hassan
+EG-IT-1631,2023-01-17,Orascom Development,Hurghada,Cybersecurity,Firewall License,75821,4,303284,Mohamed Ali
+EG-IT-1632,2023-07-26,Elsewedy Electric,Assiut,Hardware,Server Rack v2,47987,3,143961,Yasmine Mahmoud
+EG-IT-1633,2023-02-10,Talaat Moustafa Group,Giza,Hardware,Networking Switch,39396,9,354564,Yasmine Mahmoud
+EG-IT-1634,2023-02-23,Fawry,Mansoura,Hardware,Networking Switch,52137,5,260685,Sarah Hassan
+EG-IT-1635,2023-03-31,Elsewedy Electric,Cairo,Software,Project Mgmt Tool,8507,83,706081,Khaled Ibrahim
+EG-IT-1636,2023-05-16,Talaat Moustafa Group,Assiut,Hardware,Server Rack v2,68887,11,757757,Khaled Ibrahim
+EG-IT-1637,2023-03-25,CIB Bank,Suez,Hardware,Server Rack v2,135565,20,2711300,Sarah Hassan
+EG-IT-1638,2023-03-03,Raya Holding,Suez,Software,CRM Subscription,10035,53,531855,Khaled Ibrahim
+EG-IT-1639,2023-02-07,Banque Misr,Cairo,Hardware,Server Rack v2,124876,7,874132,Ahmed Mansour
+EG-IT-1640,2023-06-16,Telecom Egypt,Tanta,Cybersecurity,Firewall License,11632,1,11632,Ahmed Mansour
+EG-IT-1641,2023-09-16,Raya Holding,Mansoura,Cybersecurity,Endpoint Protection,46847,2,93694,Ahmed Mansour
+EG-IT-1642,2023-10-12,CIB Bank,Port Said,Hardware,Server Rack v2,133629,5,668145,Yasmine Mahmoud
+EG-IT-1643,2023-09-09,Elsewedy Electric,Giza,Cybersecurity,Endpoint Protection,27058,6,162348,Mohamed Ali
+EG-IT-1644,2023-08-12,EgyptAir,Suez,Hardware,UPS Backup System,82123,18,1478214,Ahmed Mansour
+EG-IT-1645,2023-06-25,QNB Alahli,Mansoura,Cloud Services,Local Data Center Hosting,72912,10,729120,Mohamed Ali
+EG-IT-1646,2023-09-09,Talaat Moustafa Group,Port Said,Cybersecurity,Firewall License,59914,3,179742,Ahmed Mansour
+EG-IT-1647,2023-06-23,Raya Holding,Assiut,Consulting,Cloud Migration,149950,1,149950,Mariam Zaki
+EG-IT-1648,2023-02-21,Fawry,Tanta,Cloud Services,Local Data Center Hosting,26807,1,26807,Sarah Hassan
+EG-IT-1649,2023-02-10,Elsewedy Electric,Tanta,Cybersecurity,Firewall License,26911,5,134555,Mohamed Ali
+EG-IT-1650,2023-09-15,Juhayna,Mansoura,Cybersecurity,Endpoint Protection,64687,6,388122,Sarah Hassan
+EG-IT-1651,2023-09-16,Banque Misr,Suez,Cybersecurity,Firewall License,36822,6,220932,Mariam Zaki
+EG-IT-1652,2023-04-12,Telecom Egypt,Hurghada,Cloud Services,Local Data Center Hosting,56219,7,393533,Mohamed Ali
+EG-IT-1653,2023-10-01,QNB Alahli,Hurghada,Cybersecurity,Penetration Testing License,26402,9,237618,Yasmine Mahmoud
+EG-IT-1654,2023-05-13,Talaat Moustafa Group,Cairo,Consulting,Digital Transformation Strategy,215127,1,215127,Yasmine Mahmoud
+EG-IT-1655,2023-07-13,Fawry,Hurghada,Cloud Services,Azure Managed Svcs,53882,1,53882,Mariam Zaki
+EG-IT-1656,2023-08-24,Banque Misr,Hurghada,Cloud Services,AWS Storage,65809,5,329045,Khaled Ibrahim
+EG-IT-1657,2023-09-17,QNB Alahli,Port Said,Consulting,Cloud Migration,270545,1,270545,Mohamed Ali
+EG-IT-1658,2023-08-31,Raya Holding,Hurghada,Cloud Services,Local Data Center Hosting,33919,1,33919,Mariam Zaki
+EG-IT-1659,2023-09-06,Elsewedy Electric,Giza,Consulting,IT Security Audit,99532,1,99532,Yasmine Mahmoud
+EG-IT-1660,2023-11-29,Orascom Development,Mansoura,Consulting,IT Security Audit,219586,1,219586,Sarah Hassan
+EG-IT-1661,2023-08-27,CIB Bank,Port Said,Cloud Services,Local Data Center Hosting,66556,2,133112,Khaled Ibrahim
+EG-IT-1662,2023-12-25,QNB Alahli,Cairo,Cloud Services,Local Data Center Hosting,57990,7,405930,Yasmine Mahmoud
+EG-IT-1663,2023-09-09,Juhayna,Tanta,Hardware,UPS Backup System,102557,10,1025570,Yasmine Mahmoud
+EG-IT-1664,2023-07-21,CIB Bank,Cairo,Software,Project Mgmt Tool,10539,98,1032822,Mohamed Ali
+EG-IT-1665,2023-08-29,Elsewedy Electric,Mansoura,Cybersecurity,Firewall License,20163,8,161304,Mohamed Ali
+EG-IT-1666,2023-02-14,EgyptAir,Hurghada,Consulting,Cloud Migration,79936,1,79936,Ahmed Mansour
+EG-IT-1667,2023-06-22,Telecom Egypt,Giza,Hardware,Networking Switch,145810,15,2187150,Sarah Hassan
+EG-IT-1668,2023-04-22,CIB Bank,Tanta,Consulting,Digital Transformation Strategy,178945,1,178945,Mohamed Ali
+EG-IT-1669,2023-12-21,Telecom Egypt,Mansoura,Consulting,Digital Transformation Strategy,162541,1,162541,Mohamed Ali
+EG-IT-1670,2023-10-21,Banque Misr,Hurghada,Software,HR & Payroll System,4214,40,168560,Khaled Ibrahim
+EG-IT-1671,2023-08-19,Fawry,Giza,Hardware,Networking Switch,127769,20,2555380,Ahmed Mansour
+EG-IT-1672,2023-10-23,CIB Bank,Mansoura,Cloud Services,AWS Storage,57736,2,115472,Sarah Hassan
+EG-IT-1673,2023-08-03,Juhayna,Giza,Cybersecurity,Firewall License,63330,9,569970,Khaled Ibrahim
+EG-IT-1674,2023-11-03,QNB Alahli,Suez,Consulting,IT Security Audit,297031,1,297031,Sarah Hassan
+EG-IT-1675,2023-02-14,Fawry,Suez,Cybersecurity,Firewall License,63061,2,126122,Ahmed Mansour
+EG-IT-1676,2023-12-28,Telecom Egypt,Giza,Software,Project Mgmt Tool,5989,53,317417,Yasmine Mahmoud
+EG-IT-1677,2023-05-04,Telecom Egypt,Hurghada,Cloud Services,Google Cloud Support,77967,4,311868,Mariam Zaki
+EG-IT-1678,2023-12-04,EgyptAir,Cairo,Cloud Services,Local Data Center Hosting,46014,9,414126,Ahmed Mansour
+EG-IT-1679,2023-10-08,QNB Alahli,Assiut,Cloud Services,Google Cloud Support,44575,10,445750,Ahmed Mansour
+EG-IT-1680,2023-03-05,Telecom Egypt,Suez,Cybersecurity,Penetration Testing License,31091,5,155455,Sarah Hassan
+EG-IT-1681,2023-08-06,CIB Bank,Suez,Hardware,Server Rack v2,25370,16,405920,Mohamed Ali
+EG-IT-1682,2023-07-24,Fawry,Mansoura,Cybersecurity,Firewall License,28434,9,255906,Khaled Ibrahim
+EG-IT-1683,2023-03-02,Juhayna,Mansoura,Software,Project Mgmt Tool,11952,30,358560,Khaled Ibrahim
+EG-IT-1684,2023-12-05,Talaat Moustafa Group,Hurghada,Software,ERP License (Arabic),10623,59,626757,Ahmed Mansour
+EG-IT-1685,2023-11-18,QNB Alahli,Alexandria,Hardware,Server Rack v2,50140,14,701960,Khaled Ibrahim
+EG-IT-1686,2023-04-12,Talaat Moustafa Group,Mansoura,Cloud Services,AWS Storage,49363,6,296178,Sarah Hassan
+EG-IT-1687,2023-09-28,CIB Bank,Mansoura,Hardware,UPS Backup System,144433,13,1877629,Sarah Hassan
+EG-IT-1688,2023-08-14,EgyptAir,Alexandria,Consulting,Cloud Migration,198541,1,198541,Mohamed Ali
+EG-IT-1689,2023-11-10,EgyptAir,Cairo,Software,ERP License (Arabic),6559,59,386981,Sarah Hassan
+EG-IT-1690,2023-03-30,QNB Alahli,Cairo,Software,Project Mgmt Tool,4134,31,128154,Mariam Zaki
+EG-IT-1691,2023-07-15,QNB Alahli,Alexandria,Cybersecurity,Firewall License,38037,1,38037,Yasmine Mahmoud
+EG-IT-1692,2023-10-12,Talaat Moustafa Group,Hurghada,Cybersecurity,Firewall License,9162,2,18324,Khaled Ibrahim
+EG-IT-1693,2023-04-08,Orascom Development,Tanta,Cybersecurity,Penetration Testing License,25711,7,179977,Mariam Zaki
+EG-IT-1694,2023-09-28,Banque Misr,Suez,Software,HR & Payroll System,7638,68,519384,Yasmine Mahmoud
+EG-IT-1695,2023-12-07,Juhayna,Assiut,Hardware,UPS Backup System,136658,16,2186528,Sarah Hassan
+EG-IT-1696,2023-12-23,EgyptAir,Alexandria,Consulting,Cloud Migration,91417,1,91417,Mariam Zaki
+EG-IT-1697,2023-06-12,EgyptAir,Suez,Cybersecurity,Endpoint Protection,16206,3,48618,Mariam Zaki
+EG-IT-1698,2023-03-08,Raya Holding,Assiut,Cybersecurity,Penetration Testing License,72621,7,508347,Yasmine Mahmoud
+EG-IT-1699,2023-10-12,Telecom Egypt,Hurghada,Consulting,IT Security Audit,169964,1,169964,Khaled Ibrahim
+EG-IT-1700,2023-07-03,Orascom Development,Port Said,Consulting,IT Security Audit,78210,1,78210,Yasmine Mahmoud
+EG-IT-1701,2023-10-29,Juhayna,Mansoura,Consulting,Digital Transformation Strategy,205791,1,205791,Mariam Zaki
+EG-IT-1702,2023-03-14,Banque Misr,Tanta,Cloud Services,Local Data Center Hosting,70102,1,70102,Ahmed Mansour
+EG-IT-1703,2023-08-22,EgyptAir,Cairo,Consulting,IT Security Audit,209740,1,209740,Sarah Hassan
+EG-IT-1704,2023-01-28,Juhayna,Mansoura,Cybersecurity,Penetration Testing License,61331,7,429317,Sarah Hassan
+EG-IT-1705,2023-11-11,Fawry,Cairo,Hardware,Networking Switch,73823,18,1328814,Mariam Zaki
+EG-IT-1706,2023-01-25,Orascom Development,Suez,Software,CRM Subscription,13299,60,797940,Mohamed Ali
+EG-IT-1707,2023-05-07,Raya Holding,Hurghada,Consulting,Digital Transformation Strategy,264485,1,264485,Mariam Zaki
+EG-IT-1708,2023-08-19,CIB Bank,Tanta,Software,CRM Subscription,1734,66,114444,Khaled Ibrahim
+EG-IT-1709,2023-10-03,Elsewedy Electric,Suez,Cloud Services,Google Cloud Support,17308,5,86540,Sarah Hassan
+EG-IT-1710,2023-03-18,CIB Bank,Tanta,Cloud Services,Local Data Center Hosting,46575,7,326025,Khaled Ibrahim
+EG-IT-1711,2023-08-15,CIB Bank,Suez,Consulting,Cloud Migration,135982,1,135982,Mariam Zaki
+EG-IT-1712,2023-09-25,Elsewedy Electric,Cairo,Consulting,Cloud Migration,246860,1,246860,Mariam Zaki
+EG-IT-1713,2023-04-13,EgyptAir,Suez,Hardware,Networking Switch,32916,19,625404,Khaled Ibrahim
+EG-IT-1714,2023-07-31,Fawry,Assiut,Cloud Services,AWS Storage,54787,8,438296,Ahmed Mansour
+EG-IT-1715,2023-11-10,Banque Misr,Cairo,Cloud Services,Local Data Center Hosting,49345,2,98690,Mohamed Ali
+EG-IT-1716,2023-10-04,QNB Alahli,Port Said,Consulting,Cloud Migration,292913,1,292913,Yasmine Mahmoud
+EG-IT-1717,2023-12-23,EgyptAir,Hurghada,Cybersecurity,Endpoint Protection,69260,7,484820,Mohamed Ali
+EG-IT-1718,2023-03-31,Banque Misr,Alexandria,Cybersecurity,Endpoint Protection,14409,7,100863,Khaled Ibrahim
+EG-IT-1719,2023-06-16,EgyptAir,Tanta,Software,CRM Subscription,8139,82,667398,Yasmine Mahmoud
+EG-IT-1720,2023-01-29,Raya Holding,Hurghada,Cloud Services,Local Data Center Hosting,62183,3,186549,Khaled Ibrahim
+EG-IT-1721,2023-11-15,Raya Holding,Tanta,Cloud Services,Azure Managed Svcs,57552,2,115104,Khaled Ibrahim
+EG-IT-1722,2023-07-28,Fawry,Assiut,Cybersecurity,Penetration Testing License,61170,6,367020,Khaled Ibrahim
+EG-IT-1723,2023-01-23,Fawry,Giza,Software,CRM Subscription,13749,29,398721,Ahmed Mansour
+EG-IT-1724,2023-09-04,Raya Holding,Cairo,Consulting,Cloud Migration,69014,1,69014,Khaled Ibrahim
+EG-IT-1725,2023-01-04,CIB Bank,Cairo,Cloud Services,AWS Storage,54331,10,543310,Khaled Ibrahim
+EG-IT-1726,2023-08-08,Juhayna,Mansoura,Consulting,IT Security Audit,93742,1,93742,Khaled Ibrahim
+EG-IT-1727,2023-01-05,EgyptAir,Tanta,Hardware,UPS Backup System,130295,6,781770,Khaled Ibrahim
+EG-IT-1728,2023-12-10,Fawry,Giza,Cybersecurity,Endpoint Protection,69686,2,139372,Mariam Zaki
+EG-IT-1729,2023-03-04,Raya Holding,Hurghada,Hardware,Server Rack v2,93923,12,1127076,Khaled Ibrahim
+EG-IT-1730,2023-08-30,EgyptAir,Assiut,Software,CRM Subscription,10054,72,723888,Sarah Hassan
+EG-IT-1731,2023-08-24,EgyptAir,Assiut,Consulting,IT Security Audit,85275,1,85275,Mariam Zaki
+EG-IT-1732,2023-07-06,Banque Misr,Alexandria,Hardware,Laptop Pro X1,85962,7,601734,Sarah Hassan
+EG-IT-1733,2023-06-07,Banque Misr,Alexandria,Consulting,Cloud Migration,265776,1,265776,Yasmine Mahmoud
+EG-IT-1734,2023-07-01,Elsewedy Electric,Tanta,Consulting,IT Security Audit,209516,1,209516,Mariam Zaki
+EG-IT-1735,2023-12-14,QNB Alahli,Mansoura,Cloud Services,AWS Storage,19965,5,99825,Mariam Zaki
+EG-IT-1736,2023-11-09,Telecom Egypt,Hurghada,Cybersecurity,Firewall License,64468,10,644680,Ahmed Mansour
+EG-IT-1737,2023-12-17,Banque Misr,Suez,Consulting,Digital Transformation Strategy,232308,1,232308,Ahmed Mansour
+EG-IT-1738,2023-09-12,Banque Misr,Suez,Software,HR & Payroll System,4813,100,481300,Yasmine Mahmoud
+EG-IT-1739,2023-10-05,Talaat Moustafa Group,Port Said,Consulting,IT Security Audit,107562,1,107562,Mariam Zaki
+EG-IT-1740,2023-07-31,EgyptAir,Assiut,Cloud Services,Google Cloud Support,79749,6,478494,Yasmine Mahmoud
+EG-IT-1741,2023-07-02,Fawry,Giza,Software,HR & Payroll System,6765,67,453255,Mariam Zaki
+EG-IT-1742,2023-01-19,CIB Bank,Port Said,Software,CRM Subscription,14709,54,794286,Mohamed Ali
+EG-IT-1743,2023-09-08,CIB Bank,Suez,Hardware,UPS Backup System,91308,11,1004388,Sarah Hassan
+EG-IT-1744,2023-07-14,Banque Misr,Cairo,Consulting,IT Security Audit,283479,1,283479,Yasmine Mahmoud
+EG-IT-1745,2023-12-10,CIB Bank,Alexandria,Cloud Services,Local Data Center Hosting,29118,6,174708,Khaled Ibrahim
+EG-IT-1746,2023-11-08,Telecom Egypt,Alexandria,Cybersecurity,Endpoint Protection,50837,3,152511,Mohamed Ali
+EG-IT-1747,2023-05-22,QNB Alahli,Assiut,Cloud Services,AWS Storage,79302,10,793020,Mohamed Ali
+EG-IT-1748,2023-05-22,QNB Alahli,Giza,Consulting,Digital Transformation Strategy,94012,1,94012,Mohamed Ali
+EG-IT-1749,2023-01-14,Talaat Moustafa Group,Port Said,Cloud Services,AWS Storage,59316,9,533844,Sarah Hassan
+EG-IT-1750,2023-11-27,Talaat Moustafa Group,Suez,Software,ERP License (Arabic),1134,72,81648,Sarah Hassan
+EG-IT-1751,2023-07-15,CIB Bank,Giza,Consulting,Cloud Migration,289278,1,289278,Mohamed Ali
+EG-IT-1752,2023-11-16,Fawry,Tanta,Consulting,IT Security Audit,113320,1,113320,Sarah Hassan
+EG-IT-1753,2023-04-24,Juhayna,Hurghada,Cybersecurity,Endpoint Protection,13440,10,134400,Yasmine Mahmoud
+EG-IT-1754,2023-01-22,Elsewedy Electric,Hurghada,Consulting,Digital Transformation Strategy,164520,1,164520,Yasmine Mahmoud
+EG-IT-1755,2023-01-13,CIB Bank,Cairo,Hardware,Networking Switch,102924,17,1749708,Khaled Ibrahim
+EG-IT-1756,2023-04-09,QNB Alahli,Cairo,Hardware,Laptop Pro X1,112740,3,338220,Yasmine Mahmoud
+EG-IT-1757,2023-09-17,QNB Alahli,Giza,Hardware,Laptop Pro X1,43742,11,481162,Khaled Ibrahim
+EG-IT-1758,2023-12-23,Orascom Development,Alexandria,Software,ERP License (Arabic),1722,64,110208,Sarah Hassan
+EG-IT-1759,2023-12-10,Orascom Development,Suez,Consulting,IT Security Audit,66124,1,66124,Mohamed Ali
+EG-IT-1760,2023-02-01,CIB Bank,Mansoura,Cybersecurity,Endpoint Protection,13046,2,26092,Yasmine Mahmoud
+EG-IT-1761,2023-04-29,Banque Misr,Hurghada,Hardware,Laptop Pro X1,134988,2,269976,Khaled Ibrahim
+EG-IT-1762,2023-02-04,Elsewedy Electric,Suez,Cloud Services,Google Cloud Support,66220,6,397320,Yasmine Mahmoud
+EG-IT-1763,2023-01-19,Fawry,Hurghada,Software,Project Mgmt Tool,9009,5,45045,Mariam Zaki
+EG-IT-1764,2023-09-10,QNB Alahli,Port Said,Cybersecurity,Firewall License,40012,2,80024,Khaled Ibrahim
+EG-IT-1765,2023-10-25,Fawry,Port Said,Consulting,Cloud Migration,206558,1,206558,Khaled Ibrahim
+EG-IT-1766,2023-07-12,Fawry,Cairo,Cloud Services,AWS Storage,27511,8,220088,Ahmed Mansour
+EG-IT-1767,2023-07-29,Telecom Egypt,Tanta,Software,CRM Subscription,6448,79,509392,Khaled Ibrahim
+EG-IT-1768,2023-10-15,Talaat Moustafa Group,Hurghada,Software,ERP License (Arabic),1373,100,137300,Mohamed Ali
+EG-IT-1769,2023-11-14,Raya Holding,Hurghada,Consulting,IT Security Audit,272387,1,272387,Mohamed Ali
+EG-IT-1770,2023-07-30,QNB Alahli,Tanta,Cybersecurity,Endpoint Protection,40784,2,81568,Ahmed Mansour
+EG-IT-1771,2023-12-09,Juhayna,Giza,Cybersecurity,Penetration Testing License,76079,8,608632,Khaled Ibrahim
+EG-IT-1772,2023-02-06,Orascom Development,Mansoura,Cybersecurity,Endpoint Protection,55690,7,389830,Mohamed Ali
+EG-IT-1773,2023-11-08,Fawry,Suez,Cloud Services,Local Data Center Hosting,13798,6,82788,Mohamed Ali
+EG-IT-1774,2023-04-05,QNB Alahli,Cairo,Software,HR & Payroll System,12431,67,832877,Sarah Hassan
+EG-IT-1775,2023-02-02,Elsewedy Electric,Suez,Software,HR & Payroll System,10936,66,721776,Sarah Hassan
+EG-IT-1776,2023-07-17,Fawry,Mansoura,Software,CRM Subscription,9550,30,286500,Khaled Ibrahim
+EG-IT-1777,2023-10-26,QNB Alahli,Cairo,Consulting,Digital Transformation Strategy,57622,1,57622,Yasmine Mahmoud
+EG-IT-1778,2023-06-26,Telecom Egypt,Hurghada,Consulting,Cloud Migration,263154,1,263154,Sarah Hassan
+EG-IT-1779,2023-10-11,Telecom Egypt,Mansoura,Cybersecurity,Firewall License,55557,2,111114,Ahmed Mansour
+EG-IT-1780,2023-07-13,Orascom Development,Port Said,Software,CRM Subscription,3640,98,356720,Sarah Hassan
+EG-IT-1781,2023-06-23,Elsewedy Electric,Port Said,Software,ERP License (Arabic),11528,37,426536,Mohamed Ali
+EG-IT-1782,2023-10-26,Fawry,Cairo,Cybersecurity,Penetration Testing License,66667,10,666670,Ahmed Mansour
+EG-IT-1783,2023-11-28,Talaat Moustafa Group,Hurghada,Software,ERP License (Arabic),14944,98,1464512,Khaled Ibrahim
+EG-IT-1784,2023-02-23,CIB Bank,Assiut,Consulting,IT Security Audit,236021,1,236021,Sarah Hassan
+EG-IT-1785,2023-12-26,Raya Holding,Hurghada,Hardware,Server Rack v2,64570,16,1033120,Khaled Ibrahim
+EG-IT-1786,2023-06-22,Elsewedy Electric,Cairo,Cybersecurity,Firewall License,23006,6,138036,Mohamed Ali
+EG-IT-1787,2023-05-19,Raya Holding,Hurghada,Software,Project Mgmt Tool,3009,98,294882,Yasmine Mahmoud
+EG-IT-1788,2023-04-04,EgyptAir,Hurghada,Software,HR & Payroll System,9982,46,459172,Ahmed Mansour
+EG-IT-1789,2023-05-14,Juhayna,Alexandria,Hardware,Server Rack v2,134536,7,941752,Ahmed Mansour
+EG-IT-1790,2023-08-10,QNB Alahli,Suez,Cybersecurity,Firewall License,36358,7,254506,Yasmine Mahmoud
+EG-IT-1791,2023-02-03,Elsewedy Electric,Suez,Hardware,Networking Switch,125985,19,2393715,Ahmed Mansour
+EG-IT-1792,2023-01-26,Talaat Moustafa Group,Mansoura,Cybersecurity,Firewall License,40407,4,161628,Ahmed Mansour
+EG-IT-1793,2023-05-15,Raya Holding,Tanta,Consulting,Digital Transformation Strategy,196953,1,196953,Ahmed Mansour
+EG-IT-1794,2023-10-29,Fawry,Suez,Cybersecurity,Penetration Testing License,42012,8,336096,Yasmine Mahmoud
+EG-IT-1795,2023-04-30,CIB Bank,Tanta,Consulting,Digital Transformation Strategy,107836,1,107836,Mohamed Ali
+EG-IT-1796,2023-03-09,Elsewedy Electric,Hurghada,Software,ERP License (Arabic),14062,73,1026526,Ahmed Mansour
+EG-IT-1797,2023-01-24,Fawry,Port Said,Cybersecurity,Firewall License,57108,4,228432,Mohamed Ali
+EG-IT-1798,2023-05-30,Telecom Egypt,Mansoura,Cybersecurity,Firewall License,78602,1,78602,Ahmed Mansour
+EG-IT-1799,2023-06-29,QNB Alahli,Mansoura,Cloud Services,AWS Storage,34190,9,307710,Mariam Zaki
+EG-IT-1800,2023-06-24,Telecom Egypt,Assiut,Cloud Services,AWS Storage,15864,10,158640,Mariam Zaki
+EG-IT-1801,2023-04-03,Banque Misr,Hurghada,Hardware,UPS Backup System,49802,15,747030,Mohamed Ali
+EG-IT-1802,2023-04-03,Telecom Egypt,Mansoura,Hardware,Server Rack v2,41584,6,249504,Ahmed Mansour
+EG-IT-1803,2023-05-18,CIB Bank,Tanta,Software,CRM Subscription,9858,52,512616,Sarah Hassan
+EG-IT-1804,2023-07-01,QNB Alahli,Suez,Consulting,Cloud Migration,66317,1,66317,Khaled Ibrahim
+EG-IT-1805,2023-05-10,Banque Misr,Giza,Hardware,Server Rack v2,86842,7,607894,Ahmed Mansour
+EG-IT-1806,2023-04-01,Banque Misr,Suez,Cloud Services,Local Data Center Hosting,12548,4,50192,Sarah Hassan
+EG-IT-1807,2023-10-26,Talaat Moustafa Group,Hurghada,Cybersecurity,Endpoint Protection,62157,10,621570,Sarah Hassan
+EG-IT-1808,2023-10-14,Raya Holding,Cairo,Consulting,Cloud Migration,249835,1,249835,Mariam Zaki
+EG-IT-1809,2023-11-02,Juhayna,Hurghada,Cybersecurity,Penetration Testing License,18677,3,56031,Sarah Hassan
+EG-IT-1810,2023-01-23,Elsewedy Electric,Cairo,Software,ERP License (Arabic),9788,90,880920,Yasmine Mahmoud
+EG-IT-1811,2023-05-28,Fawry,Suez,Cybersecurity,Firewall License,8790,5,43950,Mohamed Ali
+EG-IT-1812,2023-08-04,Fawry,Cairo,Cloud Services,AWS Storage,21984,8,175872,Mohamed Ali
+EG-IT-1813,2023-02-09,Raya Holding,Tanta,Cybersecurity,Firewall License,43363,7,303541,Khaled Ibrahim
+EG-IT-1814,2023-12-06,Orascom Development,Alexandria,Consulting,Cloud Migration,126298,1,126298,Khaled Ibrahim
+EG-IT-1815,2023-06-27,Elsewedy Electric,Alexandria,Cloud Services,Azure Managed Svcs,73302,1,73302,Sarah Hassan
+EG-IT-1816,2023-12-18,Juhayna,Assiut,Hardware,Server Rack v2,127186,6,763116,Khaled Ibrahim
+EG-IT-1817,2023-04-14,Orascom Development,Suez,Consulting,Digital Transformation Strategy,89748,1,89748,Khaled Ibrahim
+EG-IT-1818,2023-09-18,Talaat Moustafa Group,Mansoura,Cybersecurity,Endpoint Protection,77206,2,154412,Yasmine Mahmoud
+EG-IT-1819,2023-10-27,Raya Holding,Hurghada,Hardware,Server Rack v2,128387,5,641935,Sarah Hassan
+EG-IT-1820,2023-11-16,Fawry,Suez,Cybersecurity,Firewall License,52506,2,105012,Khaled Ibrahim
+EG-IT-1821,2023-09-26,Elsewedy Electric,Mansoura,Consulting,Cloud Migration,236302,1,236302,Ahmed Mansour
+EG-IT-1822,2023-05-08,Elsewedy Electric,Giza,Software,HR & Payroll System,1887,32,60384,Ahmed Mansour
+EG-IT-1823,2023-08-24,Orascom Development,Tanta,Consulting,Cloud Migration,278631,1,278631,Ahmed Mansour
+EG-IT-1824,2023-01-17,Raya Holding,Giza,Cloud Services,AWS Storage,24590,2,49180,Ahmed Mansour
+EG-IT-1825,2023-10-08,QNB Alahli,Assiut,Hardware,UPS Backup System,142402,12,1708824,Ahmed Mansour
+EG-IT-1826,2023-03-24,Banque Misr,Mansoura,Cloud Services,AWS Storage,24187,9,217683,Yasmine Mahmoud
+EG-IT-1827,2023-08-09,Fawry,Mansoura,Hardware,Server Rack v2,109208,2,218416,Yasmine Mahmoud
+EG-IT-1828,2023-05-28,Orascom Development,Hurghada,Software,ERP License (Arabic),4595,11,50545,Khaled Ibrahim
+EG-IT-1829,2023-07-22,Fawry,Hurghada,Cloud Services,Azure Managed Svcs,31576,3,94728,Mariam Zaki
+EG-IT-1830,2023-07-31,Fawry,Giza,Hardware,Laptop Pro X1,48500,3,145500,Khaled Ibrahim
+EG-IT-1831,2023-04-01,Banque Misr,Alexandria,Hardware,Server Rack v2,91217,4,364868,Yasmine Mahmoud
+EG-IT-1832,2023-12-07,CIB Bank,Port Said,Consulting,IT Security Audit,210490,1,210490,Sarah Hassan
+EG-IT-1833,2023-08-10,Orascom Development,Cairo,Cloud Services,Local Data Center Hosting,39737,3,119211,Mariam Zaki
+EG-IT-1834,2023-03-30,CIB Bank,Mansoura,Software,ERP License (Arabic),6395,38,243010,Sarah Hassan
+EG-IT-1835,2023-01-03,EgyptAir,Hurghada,Hardware,Server Rack v2,97207,20,1944140,Sarah Hassan
+EG-IT-1836,2023-04-02,Raya Holding,Alexandria,Cybersecurity,Firewall License,47969,6,287814,Yasmine Mahmoud
+EG-IT-1837,2023-09-17,Banque Misr,Alexandria,Consulting,Cloud Migration,176920,1,176920,Sarah Hassan
+EG-IT-1838,2023-07-29,Banque Misr,Giza,Hardware,Networking Switch,35705,13,464165,Yasmine Mahmoud
+EG-IT-1839,2023-12-05,Telecom Egypt,Alexandria,Hardware,Server Rack v2,96737,18,1741266,Mohamed Ali
+EG-IT-1840,2023-12-28,Elsewedy Electric,Suez,Hardware,UPS Backup System,77270,3,231810,Mohamed Ali
+EG-IT-1841,2023-07-25,QNB Alahli,Port Said,Cloud Services,AWS Storage,39110,7,273770,Mohamed Ali
+EG-IT-1842,2023-11-14,CIB Bank,Alexandria,Software,HR & Payroll System,4293,28,120204,Yasmine Mahmoud
+EG-IT-1843,2023-10-11,Telecom Egypt,Tanta,Hardware,UPS Backup System,53153,11,584683,Mariam Zaki
+EG-IT-1844,2023-09-10,Juhayna,Port Said,Cloud Services,Local Data Center Hosting,27896,2,55792,Mariam Zaki
+EG-IT-1845,2023-03-18,Banque Misr,Alexandria,Cybersecurity,Penetration Testing License,27725,6,166350,Mohamed Ali
+EG-IT-1846,2023-01-21,Fawry,Hurghada,Consulting,Cloud Migration,220122,1,220122,Mariam Zaki
+EG-IT-1847,2023-11-01,QNB Alahli,Port Said,Hardware,Networking Switch,63148,17,1073516,Ahmed Mansour
+EG-IT-1848,2023-04-13,Raya Holding,Giza,Software,CRM Subscription,6289,35,220115,Sarah Hassan
+EG-IT-1849,2023-03-07,Raya Holding,Hurghada,Cloud Services,Azure Managed Svcs,56912,9,512208,Yasmine Mahmoud
+EG-IT-1850,2023-06-22,Elsewedy Electric,Giza,Consulting,IT Security Audit,152801,1,152801,Ahmed Mansour
+EG-IT-1851,2023-11-03,Banque Misr,Alexandria,Hardware,UPS Backup System,57546,17,978282,Yasmine Mahmoud
+EG-IT-1852,2023-06-13,Juhayna,Hurghada,Cloud Services,AWS Storage,23577,1,23577,Khaled Ibrahim
+EG-IT-1853,2023-05-22,Raya Holding,Hurghada,Consulting,IT Security Audit,262591,1,262591,Mohamed Ali
+EG-IT-1854,2023-11-30,Telecom Egypt,Assiut,Hardware,Laptop Pro X1,82711,10,827110,Mariam Zaki
+EG-IT-1855,2023-12-14,Raya Holding,Giza,Cybersecurity,Firewall License,10667,10,106670,Khaled Ibrahim
+EG-IT-1856,2023-05-30,EgyptAir,Giza,Software,Project Mgmt Tool,2860,24,68640,Mohamed Ali
+EG-IT-1857,2023-05-27,Talaat Moustafa Group,Giza,Hardware,Laptop Pro X1,99295,5,496475,Mohamed Ali
+EG-IT-1858,2023-02-18,Orascom Development,Suez,Hardware,Networking Switch,74747,19,1420193,Khaled Ibrahim
+EG-IT-1859,2023-05-26,Juhayna,Assiut,Cybersecurity,Endpoint Protection,66462,10,664620,Mariam Zaki
+EG-IT-1860,2023-11-14,EgyptAir,Cairo,Consulting,Digital Transformation Strategy,261449,1,261449,Khaled Ibrahim
+EG-IT-1861,2023-12-26,Elsewedy Electric,Mansoura,Cloud Services,Google Cloud Support,18379,3,55137,Ahmed Mansour
+EG-IT-1862,2023-06-30,Banque Misr,Mansoura,Cybersecurity,Endpoint Protection,76152,2,152304,Mariam Zaki
+EG-IT-1863,2023-07-12,Orascom Development,Port Said,Cybersecurity,Endpoint Protection,21259,6,127554,Mohamed Ali
+EG-IT-1864,2023-05-15,Talaat Moustafa Group,Mansoura,Software,Project Mgmt Tool,5172,57,294804,Sarah Hassan
+EG-IT-1865,2023-04-15,QNB Alahli,Assiut,Consulting,Cloud Migration,248795,1,248795,Sarah Hassan
+EG-IT-1866,2023-04-05,QNB Alahli,Mansoura,Hardware,Server Rack v2,32391,6,194346,Sarah Hassan
+EG-IT-1867,2023-01-14,Juhayna,Alexandria,Software,HR & Payroll System,6894,36,248184,Mohamed Ali
+EG-IT-1868,2023-04-08,Orascom Development,Port Said,Cybersecurity,Firewall License,77983,9,701847,Mariam Zaki
+EG-IT-1869,2023-06-20,Orascom Development,Port Said,Software,Project Mgmt Tool,3330,52,173160,Sarah Hassan
+EG-IT-1870,2023-06-25,Telecom Egypt,Port Said,Consulting,IT Security Audit,113055,1,113055,Yasmine Mahmoud
+EG-IT-1871,2023-06-26,QNB Alahli,Assiut,Consulting,Digital Transformation Strategy,156706,1,156706,Mohamed Ali
+EG-IT-1872,2023-03-20,Banque Misr,Hurghada,Software,ERP License (Arabic),7534,11,82874,Sarah Hassan
+EG-IT-1873,2023-12-28,Juhayna,Tanta,Cloud Services,Google Cloud Support,63137,4,252548,Mariam Zaki
+EG-IT-1874,2023-04-16,Juhayna,Cairo,Software,Project Mgmt Tool,1502,12,18024,Khaled Ibrahim
+EG-IT-1875,2023-11-22,CIB Bank,Mansoura,Consulting,IT Security Audit,172518,1,172518,Mariam Zaki
+EG-IT-1876,2023-10-26,EgyptAir,Hurghada,Cloud Services,Azure Managed Svcs,29494,6,176964,Ahmed Mansour
+EG-IT-1877,2023-10-16,QNB Alahli,Hurghada,Software,Project Mgmt Tool,12512,81,1013472,Sarah Hassan
+EG-IT-1878,2023-10-24,Raya Holding,Mansoura,Consulting,Digital Transformation Strategy,213298,1,213298,Mohamed Ali
+EG-IT-1879,2023-06-15,Telecom Egypt,Assiut,Cybersecurity,Penetration Testing License,53037,8,424296,Sarah Hassan
+EG-IT-1880,2023-05-02,Telecom Egypt,Giza,Software,Project Mgmt Tool,12572,15,188580,Mohamed Ali
+EG-IT-1881,2023-07-03,Talaat Moustafa Group,Assiut,Software,ERP License (Arabic),13447,49,658903,Yasmine Mahmoud
+EG-IT-1882,2023-03-05,QNB Alahli,Tanta,Hardware,Networking Switch,58997,10,589970,Khaled Ibrahim
+EG-IT-1883,2023-09-15,Juhayna,Alexandria,Cloud Services,Google Cloud Support,36642,6,219852,Yasmine Mahmoud
+EG-IT-1884,2023-02-04,Banque Misr,Port Said,Software,Project Mgmt Tool,14763,33,487179,Sarah Hassan
+EG-IT-1885,2023-05-05,Elsewedy Electric,Assiut,Cloud Services,Google Cloud Support,20930,5,104650,Ahmed Mansour
+EG-IT-1886,2023-06-25,Fawry,Tanta,Cloud Services,Azure Managed Svcs,72565,1,72565,Mohamed Ali
+EG-IT-1887,2023-09-07,CIB Bank,Giza,Consulting,Cloud Migration,262540,1,262540,Ahmed Mansour
+EG-IT-1888,2023-06-16,Juhayna,Alexandria,Hardware,Networking Switch,148019,7,1036133,Sarah Hassan
+EG-IT-1889,2023-07-21,Juhayna,Cairo,Software,ERP License (Arabic),6350,68,431800,Yasmine Mahmoud
+EG-IT-1890,2023-04-05,Fawry,Mansoura,Consulting,IT Security Audit,293961,1,293961,Mohamed Ali
+EG-IT-1891,2023-01-21,Raya Holding,Port Said,Software,CRM Subscription,2441,33,80553,Sarah Hassan
+EG-IT-1892,2023-07-17,Talaat Moustafa Group,Alexandria,Cloud Services,Local Data Center Hosting,18529,8,148232,Ahmed Mansour
+EG-IT-1893,2023-09-10,Talaat Moustafa Group,Port Said,Cloud Services,Local Data Center Hosting,29277,9,263493,Yasmine Mahmoud
+EG-IT-1894,2023-01-16,Telecom Egypt,Assiut,Consulting,IT Security Audit,118473,1,118473,Sarah Hassan
+EG-IT-1895,2023-06-15,QNB Alahli,Port Said,Consulting,IT Security Audit,114157,1,114157,Yasmine Mahmoud
+EG-IT-1896,2023-01-26,QNB Alahli,Hurghada,Cloud Services,AWS Storage,33302,1,33302,Mohamed Ali
+EG-IT-1897,2023-10-28,Telecom Egypt,Suez,Hardware,UPS Backup System,92513,10,925130,Yasmine Mahmoud
+EG-IT-1898,2023-06-07,Elsewedy Electric,Cairo,Hardware,Networking Switch,26940,4,107760,Yasmine Mahmoud
+EG-IT-1899,2023-06-04,Elsewedy Electric,Hurghada,Cybersecurity,Penetration Testing License,72360,9,651240,Khaled Ibrahim
+EG-IT-1900,2023-04-06,Telecom Egypt,Giza,Cybersecurity,Penetration Testing License,18926,9,170334,Mohamed Ali
+EG-IT-1901,2023-06-13,Orascom Development,Alexandria,Hardware,Laptop Pro X1,94241,7,659687,Mohamed Ali
+EG-IT-1902,2023-08-10,Telecom Egypt,Port Said,Consulting,IT Security Audit,297600,1,297600,Mohamed Ali
+EG-IT-1903,2023-10-18,QNB Alahli,Port Said,Cloud Services,AWS Storage,8019,7,56133,Yasmine Mahmoud
+EG-IT-1904,2023-06-24,QNB Alahli,Assiut,Hardware,Server Rack v2,87905,19,1670195,Yasmine Mahmoud
+EG-IT-1905,2023-04-09,Talaat Moustafa Group,Mansoura,Cybersecurity,Firewall License,40991,6,245946,Khaled Ibrahim
+EG-IT-1906,2023-03-28,Talaat Moustafa Group,Hurghada,Software,Project Mgmt Tool,14543,25,363575,Mohamed Ali
+EG-IT-1907,2023-03-05,Telecom Egypt,Suez,Software,HR & Payroll System,14921,40,596840,Ahmed Mansour
+EG-IT-1908,2023-10-13,Banque Misr,Mansoura,Software,CRM Subscription,1547,48,74256,Yasmine Mahmoud
+EG-IT-1909,2023-02-13,Telecom Egypt,Cairo,Cybersecurity,Firewall License,17261,6,103566,Yasmine Mahmoud
+EG-IT-1910,2023-02-28,Banque Misr,Alexandria,Cybersecurity,Penetration Testing License,38278,10,382780,Yasmine Mahmoud
+EG-IT-1911,2023-04-21,Talaat Moustafa Group,Port Said,Hardware,UPS Backup System,83381,14,1167334,Yasmine Mahmoud
+EG-IT-1912,2023-04-15,CIB Bank,Cairo,Consulting,Cloud Migration,75275,1,75275,Mohamed Ali
+EG-IT-1913,2023-08-19,Telecom Egypt,Alexandria,Cybersecurity,Penetration Testing License,22734,1,22734,Sarah Hassan
+EG-IT-1914,2023-10-18,CIB Bank,Tanta,Cybersecurity,Firewall License,21665,4,86660,Sarah Hassan
+EG-IT-1915,2023-10-19,QNB Alahli,Alexandria,Consulting,Digital Transformation Strategy,65595,1,65595,Ahmed Mansour
+EG-IT-1916,2023-09-12,CIB Bank,Hurghada,Cloud Services,Local Data Center Hosting,6746,10,67460,Mariam Zaki
+EG-IT-1917,2023-10-18,Telecom Egypt,Giza,Consulting,Digital Transformation Strategy,268791,1,268791,Yasmine Mahmoud
+EG-IT-1918,2023-10-22,Elsewedy Electric,Port Said,Software,ERP License (Arabic),13748,52,714896,Khaled Ibrahim
+EG-IT-1919,2023-12-29,CIB Bank,Suez,Hardware,UPS Backup System,77223,7,540561,Mariam Zaki
+EG-IT-1920,2023-05-22,EgyptAir,Assiut,Consulting,Digital Transformation Strategy,168264,1,168264,Sarah Hassan
+EG-IT-1921,2023-08-23,CIB Bank,Alexandria,Hardware,Networking Switch,88595,20,1771900,Mohamed Ali
+EG-IT-1922,2023-07-31,Orascom Development,Alexandria,Hardware,Networking Switch,48734,9,438606,Yasmine Mahmoud
+EG-IT-1923,2023-02-22,Elsewedy Electric,Mansoura,Hardware,UPS Backup System,58449,17,993633,Yasmine Mahmoud
+EG-IT-1924,2023-02-11,Talaat Moustafa Group,Tanta,Cloud Services,Google Cloud Support,73683,2,147366,Khaled Ibrahim
+EG-IT-1925,2023-06-13,Telecom Egypt,Giza,Consulting,Cloud Migration,89121,1,89121,Ahmed Mansour
+EG-IT-1926,2023-12-17,Orascom Development,Suez,Consulting,Cloud Migration,282412,1,282412,Khaled Ibrahim
+EG-IT-1927,2023-04-20,Banque Misr,Assiut,Consulting,IT Security Audit,53577,1,53577,Yasmine Mahmoud
+EG-IT-1928,2023-10-04,Orascom Development,Giza,Cloud Services,Local Data Center Hosting,6460,5,32300,Sarah Hassan
+EG-IT-1929,2023-09-19,QNB Alahli,Hurghada,Cybersecurity,Penetration Testing License,67979,7,475853,Yasmine Mahmoud
+EG-IT-1930,2023-07-08,Telecom Egypt,Alexandria,Cybersecurity,Firewall License,74153,2,148306,Ahmed Mansour
+EG-IT-1931,2023-08-21,CIB Bank,Suez,Hardware,Server Rack v2,114312,18,2057616,Ahmed Mansour
+EG-IT-1932,2023-10-07,Raya Holding,Assiut,Consulting,Cloud Migration,160531,1,160531,Sarah Hassan
+EG-IT-1933,2023-04-29,Raya Holding,Cairo,Cybersecurity,Endpoint Protection,52199,10,521990,Sarah Hassan
+EG-IT-1934,2023-02-19,Fawry,Assiut,Hardware,UPS Backup System,77400,15,1161000,Mohamed Ali
+EG-IT-1935,2023-01-05,Fawry,Alexandria,Cloud Services,Azure Managed Svcs,63689,2,127378,Mohamed Ali
+EG-IT-1936,2023-01-07,Telecom Egypt,Hurghada,Cloud Services,Local Data Center Hosting,30302,3,90906,Mohamed Ali
+EG-IT-1937,2023-02-20,QNB Alahli,Tanta,Cybersecurity,Endpoint Protection,68710,8,549680,Yasmine Mahmoud
+EG-IT-1938,2023-07-19,Banque Misr,Mansoura,Cloud Services,AWS Storage,58068,7,406476,Khaled Ibrahim
+EG-IT-1939,2023-09-25,Raya Holding,Giza,Cloud Services,AWS Storage,23276,4,93104,Yasmine Mahmoud
+EG-IT-1940,2023-11-24,Fawry,Port Said,Software,Project Mgmt Tool,13006,90,1170540,Khaled Ibrahim
+EG-IT-1941,2023-01-28,Raya Holding,Assiut,Software,HR & Payroll System,2617,21,54957,Ahmed Mansour
+EG-IT-1942,2023-10-01,Talaat Moustafa Group,Cairo,Consulting,Digital Transformation Strategy,106230,1,106230,Ahmed Mansour
+EG-IT-1943,2023-04-05,Orascom Development,Giza,Cloud Services,Local Data Center Hosting,62460,4,249840,Ahmed Mansour
+EG-IT-1944,2023-10-05,QNB Alahli,Cairo,Hardware,Server Rack v2,77341,13,1005433,Mohamed Ali
+EG-IT-1945,2023-01-17,EgyptAir,Assiut,Software,Project Mgmt Tool,10381,70,726670,Mohamed Ali
+EG-IT-1946,2023-08-02,EgyptAir,Assiut,Cloud Services,Azure Managed Svcs,64584,8,516672,Mariam Zaki
+EG-IT-1947,2023-11-25,CIB Bank,Giza,Hardware,UPS Backup System,43943,7,307601,Mariam Zaki
+EG-IT-1948,2023-03-24,Orascom Development,Hurghada,Software,HR & Payroll System,3685,88,324280,Yasmine Mahmoud
+EG-IT-1949,2023-10-22,Juhayna,Hurghada,Consulting,Digital Transformation Strategy,238757,1,238757,Sarah Hassan
+EG-IT-1950,2023-05-12,Fawry,Mansoura,Consulting,IT Security Audit,178994,1,178994,Mohamed Ali
+EG-IT-1951,2023-12-14,Juhayna,Assiut,Software,HR & Payroll System,9371,10,93710,Khaled Ibrahim
+EG-IT-1952,2023-09-17,Orascom Development,Mansoura,Software,Project Mgmt Tool,1617,13,21021,Khaled Ibrahim
+EG-IT-1953,2023-06-09,Juhayna,Cairo,Hardware,Server Rack v2,105546,11,1161006,Mohamed Ali
+EG-IT-1954,2023-04-23,Talaat Moustafa Group,Giza,Cloud Services,Local Data Center Hosting,32643,10,326430,Sarah Hassan
+EG-IT-1955,2023-12-19,Raya Holding,Suez,Consulting,Digital Transformation Strategy,222711,1,222711,Yasmine Mahmoud
+EG-IT-1956,2023-04-13,Banque Misr,Assiut,Cybersecurity,Penetration Testing License,59266,2,118532,Mohamed Ali
+EG-IT-1957,2023-01-01,Telecom Egypt,Giza,Consulting,Cloud Migration,130692,1,130692,Mohamed Ali
+EG-IT-1958,2023-03-01,Elsewedy Electric,Port Said,Consulting,IT Security Audit,116029,1,116029,Mariam Zaki
+EG-IT-1959,2023-04-22,Talaat Moustafa Group,Tanta,Cloud Services,AWS Storage,49566,8,396528,Mohamed Ali
+EG-IT-1960,2023-01-17,Banque Misr,Cairo,Cybersecurity,Penetration Testing License,75346,1,75346,Mariam Zaki
+EG-IT-1961,2023-12-13,CIB Bank,Assiut,Hardware,Laptop Pro X1,24238,20,484760,Ahmed Mansour
+EG-IT-1962,2023-12-27,QNB Alahli,Suez,Hardware,Networking Switch,69268,6,415608,Ahmed Mansour
+EG-IT-1963,2023-09-24,Orascom Development,Assiut,Cloud Services,Google Cloud Support,15717,7,110019,Sarah Hassan
+EG-IT-1964,2023-08-20,QNB Alahli,Mansoura,Software,CRM Subscription,8767,15,131505,Mohamed Ali
+EG-IT-1965,2023-09-13,EgyptAir,Alexandria,Cybersecurity,Penetration Testing License,47563,3,142689,Yasmine Mahmoud
+EG-IT-1966,2023-03-05,QNB Alahli,Port Said,Software,Project Mgmt Tool,7132,38,271016,Ahmed Mansour
+EG-IT-1967,2023-01-27,Telecom Egypt,Suez,Cloud Services,Google Cloud Support,23354,6,140124,Mariam Zaki
+EG-IT-1968,2023-07-02,Talaat Moustafa Group,Hurghada,Software,Project Mgmt Tool,4636,10,46360,Khaled Ibrahim
+EG-IT-1969,2023-03-17,Fawry,Port Said,Cybersecurity,Endpoint Protection,46287,4,185148,Ahmed Mansour
+EG-IT-1970,2023-02-13,QNB Alahli,Mansoura,Software,CRM Subscription,8371,33,276243,Khaled Ibrahim
+EG-IT-1971,2023-04-27,Orascom Development,Giza,Hardware,UPS Backup System,64649,15,969735,Sarah Hassan
+EG-IT-1972,2023-01-31,Telecom Egypt,Assiut,Hardware,UPS Backup System,99958,12,1199496,Yasmine Mahmoud
+EG-IT-1973,2023-10-04,QNB Alahli,Suez,Cybersecurity,Firewall License,37584,7,263088,Khaled Ibrahim
+EG-IT-1974,2023-03-26,Talaat Moustafa Group,Giza,Consulting,IT Security Audit,82592,1,82592,Ahmed Mansour
+EG-IT-1975,2023-08-29,Telecom Egypt,Alexandria,Cybersecurity,Penetration Testing License,25972,10,259720,Mohamed Ali
+EG-IT-1976,2023-10-06,Raya Holding,Mansoura,Consulting,IT Security Audit,291428,1,291428,Mohamed Ali
+EG-IT-1977,2023-07-14,QNB Alahli,Cairo,Cybersecurity,Penetration Testing License,24893,8,199144,Mariam Zaki
+EG-IT-1978,2023-09-08,Telecom Egypt,Assiut,Hardware,Server Rack v2,111287,4,445148,Khaled Ibrahim
+EG-IT-1979,2023-07-03,Elsewedy Electric,Assiut,Consulting,Cloud Migration,225721,1,225721,Yasmine Mahmoud
+EG-IT-1980,2023-12-30,Fawry,Hurghada,Cybersecurity,Firewall License,23469,3,70407,Sarah Hassan
+EG-IT-1981,2023-02-26,Juhayna,Suez,Consulting,Digital Transformation Strategy,226281,1,226281,Sarah Hassan
+EG-IT-1982,2023-10-15,CIB Bank,Cairo,Software,Project Mgmt Tool,12712,38,483056,Sarah Hassan
+EG-IT-1983,2023-12-19,Fawry,Assiut,Consulting,Cloud Migration,131938,1,131938,Yasmine Mahmoud
+EG-IT-1984,2023-10-21,QNB Alahli,Suez,Software,CRM Subscription,5501,29,159529,Mariam Zaki
+EG-IT-1985,2023-08-08,Fawry,Alexandria,Cybersecurity,Penetration Testing License,55884,7,391188,Ahmed Mansour
+EG-IT-1986,2023-01-27,Juhayna,Cairo,Cybersecurity,Penetration Testing License,12595,2,25190,Khaled Ibrahim
+EG-IT-1987,2023-11-07,CIB Bank,Hurghada,Consulting,Cloud Migration,255372,1,255372,Ahmed Mansour
+EG-IT-1988,2023-05-13,Elsewedy Electric,Hurghada,Software,Project Mgmt Tool,3102,93,288486,Ahmed Mansour
+EG-IT-1989,2023-07-22,Talaat Moustafa Group,Mansoura,Cloud Services,Local Data Center Hosting,8535,10,85350,Sarah Hassan
+EG-IT-1990,2023-10-09,Talaat Moustafa Group,Tanta,Software,Project Mgmt Tool,3632,95,345040,Mariam Zaki
+EG-IT-1991,2023-06-16,Fawry,Cairo,Consulting,Cloud Migration,251259,1,251259,Mariam Zaki
+EG-IT-1992,2023-04-12,Talaat Moustafa Group,Alexandria,Software,ERP License (Arabic),8966,86,771076,Sarah Hassan
+EG-IT-1993,2023-05-28,Banque Misr,Assiut,Consulting,IT Security Audit,179763,1,179763,Yasmine Mahmoud
+EG-IT-1994,2023-07-29,Talaat Moustafa Group,Suez,Cybersecurity,Firewall License,63334,4,253336,Mohamed Ali
+EG-IT-1995,2023-03-27,Orascom Development,Assiut,Consulting,Cloud Migration,193667,1,193667,Mariam Zaki
+EG-IT-1996,2023-09-08,Talaat Moustafa Group,Cairo,Hardware,Laptop Pro X1,60683,15,910245,Sarah Hassan
+EG-IT-1997,2023-04-04,EgyptAir,Giza,Cybersecurity,Penetration Testing License,67569,10,675690,Sarah Hassan
+EG-IT-1998,2023-05-25,Orascom Development,Assiut,Cloud Services,AWS Storage,25755,5,128775,Sarah Hassan
+EG-IT-1999,2023-05-03,Juhayna,Tanta,Cloud Services,AWS Storage,78768,7,551376,Mariam Zaki

@@ -12,7 +12,7 @@ def calculate_kpis(dataframe):
 
     return total_sales, total_orders, total_customers, avg_order
 
-df = pd.read_excel('sales_db.xlsx')
+df = pd.read_csv('sales_db.csv')
 
 df["Date"] = pd.to_datetime(df["Date"])
 df["Month"] = df["Date"].dt.strftime("%m")
