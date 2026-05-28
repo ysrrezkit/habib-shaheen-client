@@ -7,26 +7,21 @@ import os
 import logging
 from huggingface_hub import InferenceClient
 
-# =========================
 # LOGGING
-# =========================
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
 
-# =========================
 # LOAD DATA
-# =========================
+
 df = pd.read_csv("sales_db.csv")
 df["Date"] = pd.to_datetime(df["Date"])
 df["Month"] = df["Date"].dt.strftime("%m")
 df["Year"] = df["Date"].dt.year
 
-# =========================
-# HF CLIENT
-# =========================
+# HuggingFace CLIENT
 HF_TOKEN = os.getenv("HF_TOKEN")
 client = None
 MODEL = None
@@ -39,12 +34,11 @@ if HF_TOKEN:
     except Exception as e:
         logger.error(f"HF init error: {e}")
 
-# =========================
 # AI INSIGHTS
-# =========================
+
 def generate_insights(dataframe):
     if dataframe.empty or client is None or MODEL is None:
-        return "⚡ AI Insights are currently warming up. Select filters to update analysis."
+        return "AI Insights are currently warming up. Select filters to update analysis."
 
     try:
         dataframe = dataframe.fillna(0)
@@ -72,9 +66,8 @@ Top Rep: {dataframe.groupby('Rep')['Total (EGP)'].sum().idxmax()}
     except Exception as e:
         return f"AI system response: {str(e)[:200]}"
 
-# =========================
 # KPI
-# =========================
+
 def calculate_kpis(df_):
     if df_.empty:
         return 0, 0, 0, 0
@@ -85,9 +78,7 @@ def calculate_kpis(df_):
         df_["Total (EGP)"].mean()
     )
 
-# =========================
-# THEME STYLING CONFIG (Cyber Dark)
-# =========================
+
 DARK_STYLE = {
     "background-color": "#0b0f19",
     "color": "#f1f5f9",
@@ -114,24 +105,21 @@ PLOTLY_DARK_LAYOUT = {
     "margin": {"t": 40, "b": 40, "l": 40, "r": 40}
 }
 
-# =========================
 # APP INITIALIZATION
-# =========================
+
 app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
 server = app.server
-app.title = "Executive Sales Command"
+app.title = "IT Sales analytics dashboard"
 
-# =========================
 # LAYOUT
-# =========================
 app.layout = html.Div(style=DARK_STYLE, children=[
     dbc.Container([
         
         # HEADER
         html.Div([
-            html.H1("EXECUTIVE SALES COMMAND", 
+            html.H1("IT sales analytics dashboard", 
                     style={"letter-spacing": "2px", "font-weight": "800", "background": "linear-gradient(to right, #38bdf8, #818cf8)", "-webkit-background-clip": "text", "-webkit-text-fill-color": "transparent"}),
-            html.P("Real-time Business Intelligence Engine", style={"color": "#64748b", "font-size": "14px", "margin-top": "-5px"})
+            html.P("For Mr. Habib Shaheen demand", style={"color": "#64748b", "font-size": "14px", "margin-top": "-5px"})
         ], className="text-center my-4"),
 
         # FILTERS
