@@ -29,11 +29,14 @@ df["Year"] = df["Date"].dt.year
 HF_TOKEN = os.getenv("HF_TOKEN")
 
 client = None
+MODEL = None
+
 if HF_TOKEN:
     try:
         client = InferenceClient(token=HF_TOKEN)
         logger.info("Hugging Face client initialized successfully.")
-        MODEL = "HuggingFaceH4/zephyr-7b-beta"
+        # Recommended modern model for reasoning and business analysis
+        MODEL = "meta-llama/Meta-Llama-3-8B-Instruct" 
     except Exception as e:
         logger.error(f"HF init error: {e}")
 
@@ -41,12 +44,13 @@ if HF_TOKEN:
 # AI INSIGHTS
 # =========================
 def generate_insights(dataframe):
-    if dataframe.empty or client is None:
+    if dataframe.empty or client is None or MODEL is None:
         return "AI insights unavailable."
 
     try:
         dataframe = dataframe.fillna(0)
 
+        # Extracted metrics for the prompt
         summary_text = f"""
 Revenue: {dataframe['Total (EGP)'].sum():,.0f}
 Orders: {dataframe['Sale ID'].nunique()}
@@ -57,18 +61,20 @@ Top Rep: {dataframe.groupby('Rep')['Total (EGP)'].sum().idxmax()}
 """
 
         messages = [
-            {"role": "system", "content": "You are a senior business analyst. Give 5 short insights."},
+            {"role": "system", "content": "You are a senior business analyst. Provide 5 short, actionable, and professional insights based on the data summary provided."},
             {"role": "user", "content": summary_text}
         ]
 
+        # Call the updated model
         response = client.chat_completion(
             model=MODEL,
             messages=messages,
-            max_tokens=200,
-            temperature=0.7,
+            max_tokens=300, # Bumped slightly to ensure 5 insights don't get cut off
+            temperature=0.5, # Lowered slightly for more analytical/deterministic output
         )
 
-        return response.choices[0].message["content"]
+        # Standard safe extraction for Hugging Face's ChatCompletion response
+        return response.choices[0].message.content
 
     except Exception as e:
         return f"AI error: {str(e)[:200]}"
