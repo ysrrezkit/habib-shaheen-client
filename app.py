@@ -20,9 +20,13 @@ df["Year"] = df["Date"].dt.year
 # =========================
 import requests
 
-HF_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
-HF_HEADERS = {"Authorization": "Bearer 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"}
+from huggingface_hub import InferenceClient
 
+# Initialize client once
+client = InferenceClient(
+    model="mistralai/Mistral-7B-Instruct-v0.2",
+    token=os.getenv("HF_TOKEN")
+)
 
 def generate_insights(dataframe):
     summary_text = f"""
@@ -35,37 +39,20 @@ Sales Summary:
 - Top Rep: {dataframe.groupby('Rep')['Total (EGP)'].sum().idxmax()}
 """
 
-    prompt = f"""
-You are a senior business analyst.
-Based on the data below, write 5 short business insights:
+    prompt = f"""You are a senior business analyst. Based on the data below, write 5 short business insights:
 
-{summary_text}
-"""
+{summary_text}"""
 
     try:
-        response = requests.post(
-            HF_API_URL,
-            headers=HF_HEADERS,
-            json={"inputs": prompt},
-            timeout=30  # Add timeout
+        message = client.text_generation(
+            prompt,
+            max_new_tokens=200,
+            temperature=0.7,
+            top_p=0.9
         )
-        response.raise_for_status()  # Raise exception for bad status codes
-        
-        result = response.json()
-        
-        # Handle different response formats
-        if isinstance(result, list) and len(result) > 0:
-            return result[0].get("generated_text", "AI insights temporarily unavailable.")
-        elif isinstance(result, dict):
-            return result.get("generated_text", "AI insights temporarily unavailable.")
-        else:
-            return "AI insights temporarily unavailable."
-            
-    except requests.exceptions.RequestException as e:
-        print(f"API Error: {e}")
-        return "AI insights temporarily unavailable."
+        return message
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"❌ Error: {e}")
         return "AI insights temporarily unavailable."
 
 # =========================

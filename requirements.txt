@@ -5,3 +5,4 @@ plotly
 openpyxl
 dash[cloud]
 gunicorn==21.2.0
+huggingface_hub
