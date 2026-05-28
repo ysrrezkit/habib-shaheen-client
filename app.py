@@ -21,7 +21,7 @@ df["Year"] = df["Date"].dt.year
 import requests
 
 HF_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
-HF_HEADERS = {"Authorization": "Bearer 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"}
+HF_HEADERS = {"Authorization": "Bearer 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"}
 
 
 def generate_insights(dataframe):
