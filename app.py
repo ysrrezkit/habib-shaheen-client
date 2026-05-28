@@ -31,10 +31,9 @@ HF_TOKEN = os.getenv("HF_TOKEN")
 client = None
 if HF_TOKEN:
     try:
-        client = InferenceClient(
-            model="mistralai/Mistral-7B-Instruct-v0.2",
-            token=HF_TOKEN
-        )
+        client = InferenceClient(token=HF_TOKEN)
+        logger.info("Hugging Face client initialized successfully.")
+        MODEL = "HuggingFaceH4/zephyr-7b-beta"
     except Exception as e:
         logger.error(f"HF init error: {e}")
 
@@ -58,21 +57,15 @@ Top Rep: {dataframe.groupby('Rep')['Total (EGP)'].sum().idxmax()}
 """
 
         messages = [
-            {
-                "role": "system",
-                "content": "You are a senior business analyst. Provide 5 short insights."
-            },
-            {
-                "role": "user",
-                "content": summary_text
-            }
+            {"role": "system", "content": "You are a senior business analyst. Give 5 short insights."},
+            {"role": "user", "content": summary_text}
         ]
 
         response = client.chat_completion(
+            model=MODEL,
             messages=messages,
             max_tokens=200,
             temperature=0.7,
-            top_p=0.9,
         )
 
         return response.choices[0].message["content"]
