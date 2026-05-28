@@ -32,7 +32,7 @@ client = None
 if HF_TOKEN:
     try:
         client = InferenceClient(
-            model="HuggingFaceH4/zephyr-7b-beta",
+            model="mistralai/Mistral-7B-Instruct-v0.2",
             token=HF_TOKEN
         )
     except Exception as e:
@@ -46,6 +46,8 @@ def generate_insights(dataframe):
         return "AI insights unavailable."
 
     try:
+        dataframe = dataframe.fillna(0)
+
         summary_text = f"""
 Revenue: {dataframe['Total (EGP)'].sum():,.0f}
 Orders: {dataframe['Sale ID'].nunique()}
@@ -55,21 +57,25 @@ Top Category: {dataframe.groupby('Category')['Total (EGP)'].sum().idxmax()}
 Top Rep: {dataframe.groupby('Rep')['Total (EGP)'].sum().idxmax()}
 """
 
-        prompt = f"""
-You are a senior business analyst.
-Write 5 short insights based on:
+        messages = [
+            {
+                "role": "system",
+                "content": "You are a senior business analyst. Provide 5 short insights."
+            },
+            {
+                "role": "user",
+                "content": summary_text
+            }
+        ]
 
-{summary_text}
-"""
-
-        response = client.text_generation(
-            prompt,
-            max_new_tokens=200,
+        response = client.chat_completion(
+            messages=messages,
+            max_tokens=200,
             temperature=0.7,
-            top_p=0.9
+            top_p=0.9,
         )
 
-        return response
+        return response.choices[0].message["content"]
 
     except Exception as e:
         return f"AI error: {str(e)[:200]}"
