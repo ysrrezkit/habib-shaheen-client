@@ -61,7 +61,7 @@ Top Rep: {dataframe.groupby('Rep')['Total (EGP)'].sum().idxmax()}
 """
 
         messages = [
-            {"role": "system", "content": "You are a senior business analyst. Provide 5 short, actionable, and professional insights based on the data summary provided."},
+            {"role": "system", "content": "You are a senior business analyst. Provide 5 short, actionable, and professional insights based on the data summary provided. your answers is breif short no more than 3 lines and no bolding"},
             {"role": "user", "content": summary_text}
         ]
 
