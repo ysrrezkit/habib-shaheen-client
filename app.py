@@ -18,9 +18,10 @@ df["Year"] = df["Date"].dt.year
 # =========================
 # LLM CONFIG (Hugging Face)
 # =========================
+import requests
 
 HF_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
-HF_HEADERS = {"Authorization": "Bearer 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"}  # <-- replace
+HF_HEADERS = {"Authorization": "Bearer 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"}
 
 
 def generate_insights(dataframe):
@@ -45,12 +46,27 @@ Based on the data below, write 5 short business insights:
         response = requests.post(
             HF_API_URL,
             headers=HF_HEADERS,
-            json={"inputs": prompt}
+            json={"inputs": prompt},
+            timeout=30  # Add timeout
         )
-        return response.json()[0]["generated_text"]
-    except:
+        response.raise_for_status()  # Raise exception for bad status codes
+        
+        result = response.json()
+        
+        # Handle different response formats
+        if isinstance(result, list) and len(result) > 0:
+            return result[0].get("generated_text", "AI insights temporarily unavailable.")
+        elif isinstance(result, dict):
+            return result.get("generated_text", "AI insights temporarily unavailable.")
+        else:
+            return "AI insights temporarily unavailable."
+            
+    except requests.exceptions.RequestException as e:
+        print(f"API Error: {e}")
         return "AI insights temporarily unavailable."
-
+    except Exception as e:
+        print(f"Error: {e}")
+        return "AI insights temporarily unavailable."
 
 # =========================
 # KPI FUNCTION
