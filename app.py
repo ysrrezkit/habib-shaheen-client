@@ -71,7 +71,7 @@ def calculate_kpis(df_):
 
 DARK_STYLE = {
     "background-color": "#0b0f19",
-    "color": "#f1f5f9",
+    "color": "#010c17",
     "font-family": "'Inter', 'Segoe UI', sans-serif",
     "min-height": "100vh",
     "padding": "24px"
