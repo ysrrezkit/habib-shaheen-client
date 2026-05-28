@@ -41,30 +41,30 @@ if HF_TOKEN:
 # =========================
 # AI INSIGHTS
 # =========================
-def generate_insights(df_):
-    if df_.empty or client is None:
+def generate_insights(dataframe):
+    if dataframe.empty or not client:
         return "AI insights unavailable."
 
-    summary = f"""
-Revenue: {df_['Total (EGP)'].sum():,.0f}
-Orders: {df_['Sale ID'].nunique()}
-Customers: {df_['Customer'].nunique()}
-Top City: {df_.groupby('City')['Total (EGP)'].sum().idxmax()}
-Top Category: {df_.groupby('Category')['Total (EGP)'].sum().idxmax()}
-Top Rep: {df_.groupby('Rep')['Total (EGP)'].sum().idxmax()}
+    prompt = f"""
+You are a senior business analyst.
+Write 5 insights from this data:
+
+Revenue: {dataframe['Total (EGP)'].sum()}
+Orders: {dataframe['Sale ID'].nunique()}
+Customers: {dataframe['Customer'].nunique()}
 """
 
-    prompt = f"Write 5 short business insights:\n{summary}"
-
     try:
-        return client.text_generation(
-            prompt,
-            max_new_tokens=200,
+        res = client.chat_completion(
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=200,
             temperature=0.7
         )
+        return res.choices[0].message["content"]
     except Exception as e:
         return f"AI error: {str(e)[:120]}"
-
 # =========================
 # KPI
 # =========================
