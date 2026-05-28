@@ -71,7 +71,7 @@ def calculate_kpis(dataframe):
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
-app.title = "Golden IT Sales Dashboard"
+app.title = "IT Sales Dashboard"
 
 # =========================
 # LAYOUT
@@ -82,7 +82,7 @@ app.layout = dbc.Container([
     # ================= HEADER =================
     dbc.Row([
         dbc.Col([
-            html.H1("💰 Golden IT Sales Dashboard", className="text-center mt-4 mb-4")
+            html.H1("IT Sales Dashboard", className="text-center mt-4 mb-4")
         ])
     ]),
 
@@ -151,7 +151,7 @@ app.layout = dbc.Container([
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
-                    html.H3("🤖 AI Business Insights"),
+                    html.H3("AI Business Insights"),
                     html.Div(id="ai-insights", style={"whiteSpace": "pre-line"})
                 ])
             ])

@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(135deg, #001f3f, #003d7a);
+    /* Deep navy gradient */
+    color: #f8fafc;
+    /* Off-white for better readability */
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+.card {
+    background: linear-gradient(145deg, #003d7a, #002855);
+    /* Navy gradient for depth */
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    /* Subtle white border */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+    color: #f8fafc;
+}
+
+h1, h2, h3, h4 {
+    color: #ffffff;
+    /* Crisp white headings */
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+
+.js-plotly-plot {
+    background: #002855;
+    /* Deep navy background */
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    /* White border accent */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Optional nicer text accents */
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #e0e7ff;
+    /* Light blue-white on hover for contrast */
+}
