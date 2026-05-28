@@ -20,7 +20,7 @@ df["Year"] = df["Date"].dt.year
 # =========================
 
 HF_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
-HF_HEADERS = {"Authorization": "Bearer YOUR_HUGGINGFACE_TOKEN"}  # <-- replace
+HF_HEADERS = {"Authorization": "Bearer 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"}  # <-- replace
 
 
 def generate_insights(dataframe):
