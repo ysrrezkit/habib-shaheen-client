@@ -4,4 +4,4 @@ pandas
 plotly
 openpyxl
 dash[cloud]
-gunicorn
+gunicorn==21.2.0
