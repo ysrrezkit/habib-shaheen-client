@@ -32,7 +32,7 @@ client = None
 if HF_TOKEN:
     try:
         client = InferenceClient(
-            model="mistralai/Mistral-7B-Instruct-v0.2",
+            model="HuggingFaceH4/zephyr-7b-beta",
             token=HF_TOKEN
         )
     except Exception as e:
@@ -42,29 +42,37 @@ if HF_TOKEN:
 # AI INSIGHTS
 # =========================
 def generate_insights(dataframe):
-    if dataframe.empty or not client:
+    if dataframe.empty or client is None:
         return "AI insights unavailable."
 
-    prompt = f"""
-You are a senior business analyst.
-Write 5 insights from this data:
-
-Revenue: {dataframe['Total (EGP)'].sum()}
+    try:
+        summary_text = f"""
+Revenue: {dataframe['Total (EGP)'].sum():,.0f}
 Orders: {dataframe['Sale ID'].nunique()}
 Customers: {dataframe['Customer'].nunique()}
+Top City: {dataframe.groupby('City')['Total (EGP)'].sum().idxmax()}
+Top Category: {dataframe.groupby('Category')['Total (EGP)'].sum().idxmax()}
+Top Rep: {dataframe.groupby('Rep')['Total (EGP)'].sum().idxmax()}
 """
 
-    try:
-        res = client.chat_completion(
-            messages=[
-                {"role": "user", "content": prompt}
-            ],
-            max_tokens=200,
-            temperature=0.7
+        prompt = f"""
+You are a senior business analyst.
+Write 5 short insights based on:
+
+{summary_text}
+"""
+
+        response = client.text_generation(
+            prompt,
+            max_new_tokens=200,
+            temperature=0.7,
+            top_p=0.9
         )
-        return res.choices[0].message["content"]
+
+        return response
+
     except Exception as e:
-        return f"AI error: {str(e)[:120]}"
+        return f"AI error: {str(e)[:200]}"
 # =========================
 # KPI
 # =========================
